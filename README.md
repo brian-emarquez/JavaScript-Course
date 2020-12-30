@@ -1,4 +1,4 @@
-git push -u origin main<h2 align="center"> JavaScript-Course</h2>
+<h2 align="center"> JavaScript-Course</h2>
 
 <p align="center">
   
