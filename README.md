@@ -28,7 +28,8 @@
 ![javascripts](./images/taza.png)
 
 ## Temario
-- [Historia de JavaScript](#Que-es-PHP)
+- [Historia de JavaScript](#Que-es-JAVASCRIPT)
+- [Brendan Eich](#Brendan-Eich)
 - [Como y donde escribir JavaScripts](#Cualidades)
 - [Sintaxis de JavaScritps](#Desarrollo-Web)
 - [Variables, constantes y sus Ambitos](#Servidores)
@@ -59,6 +60,21 @@
 - [Temporazadores](#Operador-"Nave-Espacial")
 - [APIs HTML5](#Operador-"Nave-Espacial")
 - [Practicas Finales](#Operador-"Nave-Espacial")
+
+## Que es JAVASCRIPT
+
+JavaScript es un lenguaje de Programacion.
+lo creó Brendan Eich en una semana
+
+
+
+## Brendan Eich
+
+![javascripts](./images/Brendan_Eich.jpg)
+
+es un programador estadounidense conocido por inventar el lenguaje de programación JavaScript.
+
+Brendan Eich recibió su Bachiller en matemáticas y ciencias de la computación en la Universidad de Santa Clara. Recibió su maestría en 1986 de la Universidad de Illinois en Urbana-Champaign.
 
 
 
