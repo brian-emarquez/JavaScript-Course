@@ -90,6 +90,7 @@ Brendan Eich recibió su Bachiller en matemáticas y ciencias de la computación
  - 2009 - ECMAScript 5
  - 2011 - ECMAScript 5.1
  - 2011 - ECMAScript 6
+ ---
 
 * Tecnologias Descendientes de JavaScrip
 
@@ -105,6 +106,7 @@ Tecnologias Independiente:
 - Angular
 - React
 - VueJs
+----
 
 * Donde Escribir Codigo
 
