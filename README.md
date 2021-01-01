@@ -81,9 +81,40 @@ Brendan Eich recibió su Bachiller en matemáticas y ciencias de la computación
 
 ## Historia de JavaScript 
 
- 1995 - Netscape crea JavaScript
+ - 1995 - Netscape crea JavaScript
+ - 1997 - Netscape se lleva JavaScript a ECMA (European Computer Manufactures 
+ Assiciation)
+ - 1997 - Se lanza el estadar ECMA-262 y se crea ECMASscript 1.0
+ - 1998 - exmaScript 2 - Ajuste con el estandar Internacional.
+ - 1999 - ECMAScript 3
+ - 2009 - ECMAScript 5
+ - 2011 - ECMAScript 5.1
+ - 2011 - ECMAScript 6
+
+* Tecnologias Descendientes de JavaScrip
+
+Tecnologias Independiente:
+- Ajax
+- jQuery
+- nodeJS
+- JSON
 
 
+* Framworks
+
+- Angular
+- React
+- VueJs
+
+* Donde Escribir Codigo
+
+- La Consola del Navegador directamente
+- Instalar Node.js
+- Atom
+- Visual Studio Code
+- Brackets
+- Notepad++
+- Bloc de Notas
 
 
 
