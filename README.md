@@ -74,7 +74,7 @@ lo creó Brendan Eich en una semana
 
 es un programador estadounidense conocido por inventar el lenguaje de programación JavaScript.
 
-Brendan Eich recibió su Bachiller en matemáticas y ciencias de la computación en la Universidad de Santa Clara. Recibió su maestría en 1986 de la Universidad de Illinois en Urbana-Champaign.
+Brendan Eich recibió su Bachiller en matemáticas y ciencias de la computación en la Universidad de Santa Clara. Recibió su maestría en 1986 de la Universidad de Illinois en Urbana-Champaign. [WIKIPEDIA](https://es.wikipedia.org/wiki/Brendan_Eich).<br>
 
 
 
