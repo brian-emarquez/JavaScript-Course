@@ -28,8 +28,10 @@
 ![javascripts](./images/taza.png)
 
 ## Temario
-- [Historia de JavaScript](#Que-es-JAVASCRIPT)
+
+- [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)
 - [Brendan Eich](#Brendan-Eich)
+- [Historia de JavaScript](#Historia-de-JavaScript)
 - [Como y donde escribir JavaScripts](#Cualidades)
 - [Sintaxis de JavaScritps](#Desarrollo-Web)
 - [Variables, constantes y sus Ambitos](#Servidores)
@@ -63,10 +65,11 @@
 
 ## Que es JAVASCRIPT
 
-JavaScript es un lenguaje de Programacion.
-lo creó Brendan Eich en una semana
-
-
+- JavaScript es un lenguaje de Programacion.
+- Lo creó Brendan Eich en una semana.
+- Es el Unico Lenguaje de programacion que puede interpretar el navegador.
+- El nombre se le puso por que en ese momento esta de moda java.
+- JavaScript ha sido mal visto desde su inicio hasta el 2009 aproximadamente.
 
 ## Brendan Eich
 
@@ -75,6 +78,10 @@ lo creó Brendan Eich en una semana
 es un programador estadounidense conocido por inventar el lenguaje de programación JavaScript.
 
 Brendan Eich recibió su Bachiller en matemáticas y ciencias de la computación en la Universidad de Santa Clara. Recibió su maestría en 1986 de la Universidad de Illinois en Urbana-Champaign. [WIKIPEDIA](https://es.wikipedia.org/wiki/Brendan_Eich).<br>
+
+## Historia de JavaScript 
+
+ 1995 - Netscape crea JavaScript
 
 
 
