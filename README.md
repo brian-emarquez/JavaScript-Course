@@ -32,9 +32,9 @@
 - [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)
 - [Brendan Eich](#Brendan-Eich)
 - [Historia de JavaScript](#Historia-de-JavaScript)
-- [Como y donde escribir JavaScripts](#Cualidades)
-- [Sintaxis de JavaScritps](#Desarrollo-Web)
-- [Variables, constantes y sus Ambitos](#Servidores)
+- [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)
+- [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)
+- [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)
 - [Tipos de datos en javaScript](#La-Web-Dinamica)
 - [Trabajado con Operadores](#XAMPP)
 - [Nuevos metodos de Strings](#Servidor-Portable)
@@ -100,15 +100,14 @@ Tecnologias Independiente:
 - nodeJS
 - JSON
 
-
+---
 * Framworks
 
 - Angular
 - React
 - VueJs
-----
 
-* Donde Escribir Codigo
+## Como y donde escribir JavaScripts
 
 - La Consola del Navegador directamente
 - Instalar Node.js
@@ -118,6 +117,21 @@ Tecnologias Independiente:
 - Notepad++
 - Bloc de Notas
 
+## Sintaxis de JavaScritp
+
+- Es case senstive.
+  Numero no es igual a numero.
+
+- Es tipado de debil o dinamico
+  Las variables son de tipo del dato que almacenen.
+
+- La sentencia dinalizan con ;
+  No es obligatorio pero es muy reocmendable
+
+- Los Bloques finalizan con }
+  de forma opcional se puede anadir un ; despues de }
+
+## Variables constantes y sus Ambitos
 
 
 
