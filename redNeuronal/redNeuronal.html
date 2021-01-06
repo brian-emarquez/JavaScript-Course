@@ -6,9 +6,19 @@
     <title>RedNeuronal</title>
 </head>
 <body>
-    <input class="jscolor {onFineChange: 'update(this)'}>" value="cc66ff"
+    <input class="jscolor {onFineChange:'update(this)'}" value="cc66ff">
+
 
     <script src="jscolor.js"></script> 
+    <script src="jscolor.min.js"></script> 
+
+
+    <script type="text/javascript">
+        function update(color){
+            console.log(color);
+        }
+    </script>
     
 </body>
 </html>
+
