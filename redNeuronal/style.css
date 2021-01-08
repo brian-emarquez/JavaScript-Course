@@ -1,0 +1,10 @@
+body {
+    margin: 05%;
+    display: grid;
+}
+#sitio {
+    display: inline-block;
+    padding: 30%;
+    font-size: 2em;
+  
+}
