@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RedNeuronal</title>
+    <title>Red Neuronal</title>
 </head>
 <body>
     <input class="jscolor {onFineChange:'update(this)'}" value="cc66ff">
 
-    <em id="sitio"> What is the best text color ? </em>
-
+    <div id="sitio"> 
+        What is the best text color ? 
+    </div>
     
     <script src="jscolor.js"></script> 
 
     <script type="text/javascript">
-        function update(color) {
+        function update(color){
             //console.log(color);
             var div = document.getElementById("sitio");
             div.style.background = "#" + color;
