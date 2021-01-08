@@ -1,3 +1,7 @@
+<!-- ############################################################ -->
+<!-- Red Neuronal -->
+<!-- ############################################################ -->
+
 <!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
@@ -7,19 +11,63 @@
 </head>
 <body>
     <input class="jscolor {onFineChange:'update(this)'}" value="cc66ff">
-
+   
     <div id="sitio"> 
         Brian Marquez 
     </div>
     
     <script src="jscolor.js"></script> 
     <link rel="stylesheet" type="text/css" href="../redNeuronal/style.css" media="screen" />
+    <script src="https://unpkg.com/brain.js"></script>
 
     <script type="text/javascript">
+
+        // Start Nneural network
+        var network = new brain.NeuralNetwork();
+
+        // ENTRENAMIENTO
+        network.train([
+
+        // rango de color de 0 a 255
+        // 0 : es blanco
+        // 1 : es negro
+        //0.50 : gris
+
+        // Si es negro (entrada 0) = texto blanco (salida = 1)
+        {input: {rojo:0, verde:0, azul:0}, output:{color:1}},
+
+        // si es blanco (entrada en 1) = texto negro (salida = 0)
+        {input: {rojo:1, verde:1, azul:1}, output:{color:0}}
+
+        ])
+
         function update(color){
             //console.log(color);
             var div = document.getElementById("sitio");
             div.style.background = "#" + color;
+
+            // Tomar l fondo elegido por el usuario
+            // prediccion del mejor colro de texto a utilizar
+
+            var entrada = {
+                rojo: color.rgb[0]/255,
+                verde: color.rgb[1]/255,
+                azul: colo.rgb[2]/255
+
+            }
+            // Obtener la prediccion de la red
+            var resultado = network.run(entrada);
+
+            // Imprimir  la prediccion del color
+            console.log(resultado);
+
+            //
+            if (resultado.color > .5)
+            {
+                div.style.color = "white";
+            }else{
+                div.style.color = "black";
+            }
         }
     </script>
     

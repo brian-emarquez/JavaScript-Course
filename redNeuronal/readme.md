@@ -12,3 +12,11 @@ function redNeuronal(paraEntrada)
     // Logica
     return resultado; // salida
 ```
+
+## Brain JS
+
+![javascripts](./images/brain.png)
+
+## Creador
+
+[https://www.youtube.com/watch?v=UNFFLJPW7KQ&t=245s]
