@@ -1,6 +1,7 @@
 body {
     margin: 05%;
     display: grid;
+    font-size: 162.5%;
 }
 #sitio {
     display: inline-block;
