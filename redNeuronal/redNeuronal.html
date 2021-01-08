@@ -8,14 +8,16 @@
 <body>
     <input class="jscolor {onFineChange:'update(this)'}" value="cc66ff">
 
+    <em id="sitio"> What is the best text color ? </em>
 
+    
     <script src="jscolor.js"></script> 
-    <script src="jscolor.min.js"></script> 
-
 
     <script type="text/javascript">
-        function update(color){
-            console.log(color);
+        function update(color) {
+            //console.log(color);
+            var div = document.getElementById("sitio");
+            div.style.background = "#" + color;
         }
     </script>
     
