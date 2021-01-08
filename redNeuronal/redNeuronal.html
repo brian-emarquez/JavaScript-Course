@@ -37,12 +37,17 @@
         {input: {rojo:0, verde:0, azul:0}, output:{color:1}},
 
         // si es blanco (entrada en 1) = texto negro (salida = 0)
-        {input: {rojo:1, verde:1, azul:1}, output:{color:0}}
+        {input: {rojo:1, verde:1, azul:1}, output:{color:0}},
+        // para el fondo verde
+        {input: {rojo:0, verde:1, azul:0}, output:{color:0}},
+        // para el texto azul
+        {input: {rojo:0, verde:0, azul:1}, output:{color:1}}
 
         ])
 
         function update(color){
             //console.log(color);
+            // cambio en automatico de color
             var div = document.getElementById("sitio");
             div.style.background = "#" + color;
 
@@ -52,7 +57,7 @@
             var entrada = {
                 rojo: color.rgb[0]/255,
                 verde: color.rgb[1]/255,
-                azul: colo.rgb[2]/255
+                azul: color.rgb[2]/255
 
             }
             // Obtener la prediccion de la red
