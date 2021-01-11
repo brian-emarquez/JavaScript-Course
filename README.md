@@ -89,7 +89,7 @@ Brendan Eich recibió su Bachiller en matemáticas y ciencias de la computación
  - 1999 - ECMAScript 3
  - 2009 - ECMAScript 5
  - 2011 - ECMAScript 5.1
- - 2011 - ECMAScript 6
+ - 2015 - ECMAScript 6
  ---
 
 * Tecnologias Descendientes de JavaScrip
@@ -131,7 +131,16 @@ Tecnologias Independiente:
 - Los Bloques finalizan con }
   de forma opcional se puede anadir un ; despues de }
 
-## Variables constantes y sus Ambitos
+## Variables constantes y sus Ambitos 
+
+* Scope o Ambito
+
+- Una Variable es un espacio que reservamos en memoria para almacenar un dato que podra cambiar durante la ejecucion de nuestro programa.
+
+. La Palabra reservada para declarar variables es <strong>let</strong> no es recomendable usar <strong>var</strong>
+
+
+
 
 
 
