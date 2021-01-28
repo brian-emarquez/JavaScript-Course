@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/dependencies-out%20of%20date-orange">
   </a>
    </a>
-   <a href="https://github.com/BrianMarquez3/PHP-Course/network">
+   <a href="https://github.com/BrianMarquez3/JavaScript-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a>
 </p>
