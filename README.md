@@ -37,7 +37,7 @@
 - [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)
 - [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)
 - [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)
-- [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScrip)
+- [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)
 - [Trabajado con Operadores](#XAMPP)
 - [Nuevos metodos de Strings](#Servidor-Portable)
 - [Ojjetos Math](#Post-Instalacion)
