@@ -176,7 +176,11 @@ Tecnologias Independiente:
 - Primitivos
   - <strong> Numero </strong> -> let numro = 5;
   - <strong> Strings(cadenas) </strong> -> let palabra = "Hola; | let palabra = "Hola;
-  - <strong> Bolean </strong> -> respuesta = true; | let respuesta = false;
+  - <strong> Boolean </strong> -> respuesta = true; | let respuesta = false;
+  - <strong> Undefined </strong>
+  - <strong> Null</strong>
+  - <strong> Symbol </strong>
+
 
 
 
