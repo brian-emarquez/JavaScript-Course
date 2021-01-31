@@ -28,6 +28,13 @@
   
 ![javascripts](./images/js.png)
 
+## Instalación
+
+📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code
+📦 [Install Node.js](https://nodejs.org/es/download/) Instalador de Node.<br>
+📦 [Install IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/#section=windows) Intalador IntelliJ IDEA.<br>
+📦 [Install Prepros](https://prepros.io/) Intalador de Prepros.<br>
+
 ## Temario
 
 - [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)
