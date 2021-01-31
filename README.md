@@ -36,8 +36,8 @@
 - [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)
 - [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)
 - [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)
-- [Declaracion, Inializacion y Modificacion](#Declaracion,-Inializacion-y-Modificacion)
-- [Tipos de datos en javaScript](#La-Web-Dinamica)
+- [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)
+- [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScrip)
 - [Trabajado con Operadores](#XAMPP)
 - [Nuevos metodos de Strings](#Servidor-Portable)
 - [Ojjetos Math](#Post-Instalacion)
@@ -152,7 +152,7 @@ Tecnologias Independiente:
   - scape o ambito es la sona donde exite nuestra variable o constante
 
 ---  
-## Declaracion, Inializacion y Modificacion
+## Declaracion Inializacion y Modificacion
 
 - Una variable se declara con la siguiente estructura:
 
