@@ -36,6 +36,7 @@
 - [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)
 - [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)
 - [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)
+- [Declaracion, Inializacion y Modificacion](#Declaracion,-Inializacion-y-Modificacion)
 - [Tipos de datos en javaScript](#La-Web-Dinamica)
 - [Trabajado con Operadores](#XAMPP)
 - [Nuevos metodos de Strings](#Servidor-Portable)
@@ -80,6 +81,7 @@ es un programador estadounidense conocido por inventar el lenguaje de programaci
 
 Brendan Eich recibió su Bachiller en matemáticas y ciencias de la computación en la Universidad de Santa Clara. Recibió su maestría en 1986 de la Universidad de Illinois en Urbana-Champaign. [WIKIPEDIA](https://es.wikipedia.org/wiki/Brendan_Eich).<br>
 
+---
 ## Historia de JavaScript 
 
  - 1995 - Netscape crea JavaScript
@@ -108,6 +110,7 @@ Tecnologias Independiente:
 - React
 - VueJs
 
+---
 ## Como y donde escribir JavaScripts
 
 - La Consola del Navegador directamente
@@ -118,6 +121,7 @@ Tecnologias Independiente:
 - Notepad++
 - Bloc de Notas
 
+---
 ## Sintaxis de JavaScritp
 
 - Es case senstive.
@@ -132,13 +136,49 @@ Tecnologias Independiente:
 - Los Bloques finalizan con }
   de forma opcional se puede anadir un ; despues de }
 
+---
 ## Variables constantes y sus Ambitos 
-
-* Scope o Ambito
 
 - Una Variable es un espacio que reservamos en memoria para almacenar un dato que podra cambiar durante la ejecucion de nuestro programa.
 
-. La Palabra reservada para declarar variables es <strong>let</strong> no es recomendable usar <strong>var</strong>
+- La Palabra reservada para declarar variables es <strong>let</strong> no es recomendable usar <strong>var</strong>
+
+- Las Variables se puedem: declarar, inicializar y modificar
+
+- Las constante es un espacio re reservamos en memori para alamecer un dato que no cambiará durante la ejecucion de nuestro programa
+
+    *La Palabra reservada para declarar constantes es "const"
+
+  - scape o ambito es la sona donde exite nuestra variable o constante
+
+---  
+## Declaracion, Inializacion y Modificacion
+
+- Una variable se declara con la siguiente estructura:
+
+    let numero;
+
+- Una variable se inicializa con la siguiente estructura:
+
+    numero = 5;
+
+- se puede declarar e iniciar en la misma sentencia:
+
+    let numero 5;
+
+- para modificar el valro de una variable existe:
+
+    numero = 3;
+
+---
+## Tipos de datos en javaScript
+
+- Primitivos
+  - <strong> Numero </strong> -> let numro = 5;
+  - <strong> Strings(cadenas) </strong> -> let palabra = "Hola; | let palabra = "Hola;
+  - <strong> Bolean </strong> -> respuesta = true; | let respuesta = false;
+
+
 
 
 
