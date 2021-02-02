@@ -41,3 +41,35 @@ Operadores aritméticos
         A =  B++  
    ```
 
+## Asignacion
+
+<table style="text-align:center;" class="asignacion" >
+  <tr>
+    <td colspan="3">asignacion</td>
+  </tr>
+      <tr>
+        <td>Asignacion</td>
+        <td> = </td>
+      </tr>
+      <tr>
+        <td>Suma y Asignacion</td>
+        <td>a +=3(a=a+3)</td>
+      </tr>
+     <tr>
+        <td>Resta y Asignacion</td>
+        <td>a -=3(a=a-3)</td>
+      </tr>
+     <tr>
+        <td>Multiplicacion y Asignacion</td>
+        <td>a *=3(a=a*3)</td>
+      </tr>
+     <tr>
+        <td>Multiplicacion y Asignacion</td>
+        <td>a /=3(a=a/3)</td>
+      </tr>
+     <tr>
+        <td>Modulo y Asignacion</td>
+        <td>a %=3(a=a%3)</td>
+      </tr>
+</table>
+
