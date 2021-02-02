@@ -163,19 +163,27 @@ Tecnologias Independiente:
 
 - Una variable se declara con la siguiente estructura:
 
+    ```js
     let numero;
+    ```
 
 - Una variable se inicializa con la siguiente estructura:
 
+    ```js
     numero = 5;
+    ```
 
 - se puede declarar e iniciar en la misma sentencia:
 
+    ```js
     let numero 5;
+    ```
 
 - para modificar el valro de una variable existe:
 
+    ```js
     numero = 3;
+    ```
 
 ---
 ## Tipos de datos en javaScript
