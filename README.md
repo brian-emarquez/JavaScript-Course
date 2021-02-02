@@ -196,7 +196,7 @@ Tecnologias Independiente:
   - <strong> Null</strong>
   - <strong> Symbol </strong>
 
-  | Carpeta                    | Link |     
+| Carpeta                    | Link |     
 |----------------------------|:-----------:|
 | [Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Variables)          |      ✔️     | 
 
