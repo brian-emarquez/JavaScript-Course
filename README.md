@@ -224,14 +224,12 @@ Operadores aritméticos
 
 ```js
     Resta (-). Halla la diferencia entre dos números.
-    Ejemplo A: 3-2 = 1 . Ejemplo B: (-1)-(-2) = 1 .
 ```
 ```js
     Negativo (-). Indica el signo negativo de un número o una expresión: -3.
 ```
 ```js
     División (/). Divide dos números, obteniendo un cociente de coma flotante: 5 / 2 = 2.5 . 
-    Fíjate en que el separador decimal es el punto.
 ```
 ```js
     Módulo aritmético %. Divide dos números, obteniendo un resto entero: 5 % 2 = 1 .
@@ -239,16 +237,6 @@ Operadores aritméticos
 ```js
     Multiplicación (*). Multiplica dos números: 3 * 2 = 6 .
 ```
-
-```js
-    Incrementos y decrementos (++   --). 
-    Incrementa o decrementa el valor de una variable numérica en una unidad. No puede aplicarse a un literal. Pueden darse dos casos:
-
-        var A, B; B = 2;
-
-        A =  ++B  
-        A =  B++  
-   ```
 
 ## Asignacion
 
