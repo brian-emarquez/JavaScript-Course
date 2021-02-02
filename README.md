@@ -219,7 +219,6 @@ Operadores aritméticos
 
 ```js
     Suma (+). Suma dos números: 3 + 2 = 5 .
-    Si en lugar de números se suman cadenas, como por ejemplo "A" + "B" = "AB" se produce una concatenación. Si alguno de los elementos a concatenar no es una cadena de texto, queda convertido a cadena: "AB" + 123 = "AB123" .
 ```
 
 ```js
