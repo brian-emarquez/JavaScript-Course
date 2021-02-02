@@ -186,7 +186,7 @@ Tecnologias Independiente:
     ```
 
 ---
-## Tipos de datos en javaScript
+## Tipos de datos en JavaScript
 
 - Primitivos
   - <strong> Numero </strong> -> let numro = 5;
