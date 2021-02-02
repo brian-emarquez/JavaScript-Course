@@ -45,7 +45,7 @@
 - [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)
 - [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)
 - [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)
-- [Trabajado con Operadores](#XAMPP)
+- [Tipos de Operadores](#Tipos-de-Operadores)
 - [Nuevos metodos de Strings](#Servidor-Portable)
 - [Ojjetos Math](#Post-Instalacion)
 - [Condicionales](#Entorno-de-Desarrollo)
@@ -203,8 +203,12 @@ Tecnologias Independiente:
 
 ---
 
+## Tipos de Operadores
 
 
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| []()          |      ✔️     | 
 
 
 
