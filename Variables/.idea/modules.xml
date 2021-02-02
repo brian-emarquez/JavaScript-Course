@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/JavaScript-Course.iml" filepath="$PROJECT_DIR$/.idea/JavaScript-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables.iml" filepath="$PROJECT_DIR$/variables.iml" />
     </modules>
   </component>
 </project>

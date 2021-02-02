@@ -1,0 +1,1 @@
+let numero=4.4,palabra="Hola JavascriptQ",respuesta=!0;const PI=3.14;console.log(numero),console.log(palabra),console.log(respuesta),console.log(PI);
