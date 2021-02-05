@@ -296,7 +296,11 @@ Operadores aritméticos
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Tipo_de_Operadores)          |      ✔️     | 
+| [Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Tipo_de_Operadores)          |      ✔️     |
+
+---
+## Paypal
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 
 
