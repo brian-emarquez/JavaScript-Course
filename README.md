@@ -46,7 +46,7 @@
 - [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)
 - [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)
 - [Tipos de Operadores](#Tipos-de-Operadores)
-- [Nuevos metodos de Strings](#Servidor-Portable)
+- [Strings](#Strings)
 - [Ojjetos Math](#Post-Instalacion)
 - [Condicionales](#Entorno-de-Desarrollo)
 - [Bucles](#Codigo)
@@ -297,6 +297,12 @@ Operadores aritméticos
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 | [Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Tipo_de_Operadores)          |      ✔️     |
+---
+## Strings
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Strings](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Strings)   
 
 ---
 ## Paypal
