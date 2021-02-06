@@ -205,10 +205,102 @@ Tecnologias Independiente:
 
 ## Tipos de Operadores
 
+Tipos de operadores
+En JavaScript encontramos cinco tipos de operadores:
+
+    Aritméticos
+    Lógicos
+    De comparación
+    Binarios
+    De asignación
+    Otros 
+
+Operadores aritméticos
+
+```js
+    Suma (+). Suma dos números: 3 + 2 = 5 .
+```
+
+```js
+    Resta (-). Halla la diferencia entre dos números.
+```
+```js
+    Negativo (-). Indica el signo negativo de un número o una expresión: -3.
+```
+```js
+    División (/). Divide dos números, obteniendo un cociente de coma flotante: 5 / 2 = 2.5 . 
+```
+```js
+    Módulo aritmético %. Divide dos números, obteniendo un resto entero: 5 % 2 = 1 .
+```
+```js
+    Multiplicación (*). Multiplica dos números: 3 * 2 = 6 .
+```
+
+## Asignacion
+
+<table style="text-align:center;" class="asignacion" >
+  <tr>
+    <td colspan="3">asignacion</td>
+  </tr>
+      <tr>
+        <td>Asignacion</td>
+        <td> = </td>
+      </tr>
+      <tr>
+        <td>Suma y Asignacion</td>
+        <td>a +=3(a=a+3)</td>
+      </tr>
+     <tr>
+        <td>Resta y Asignacion</td>
+        <td>a -=3(a=a-3)</td>
+      </tr>
+     <tr>
+        <td>Multiplicacion y Asignacion</td>
+        <td>a *=3(a=a*3)</td>
+      </tr>
+     <tr>
+        <td>Multiplicacion y Asignacion</td>
+        <td>a /=3(a=a/3)</td>
+      </tr>
+     <tr>
+        <td>Modulo y Asignacion</td>
+        <td>a %=3(a=a%3)</td>
+      </tr>
+</table>
+
+## Incremento / Decremento
+
+<table style="text-align:center;" class="asignacion" >
+  <tr>
+    <td colspan="3">Incremento / Decremento</td>
+  </tr>
+      <tr>
+        <td>Post-incremento</td>
+        <td> a++ </td>
+      </tr>
+      <tr>
+        <td>Pre-incremento</td>
+        <td> ++a </td>
+      </tr>
+     <tr>
+        <td>Post-decremento</td>
+        <td>a a-- </td>
+      </tr>
+     <tr>
+        <td>Pre-decremento</td>
+        <td> --a </td>
+      </tr>
+     
+</table>
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| []()          |      ✔️     | 
+| [Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Tipo_de_Operadores)          |      ✔️     |
+
+---
+## Paypal
+🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 
 
