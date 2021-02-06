@@ -305,7 +305,7 @@ Operadores aritméticos
 - METODO : es aquello que la cadenas pueder ejercer, Ej: Covertirse en mayúslas
 - PROPIEDAD: son las caracteristicas que la cadena tiene por ser cadena: Ej: Longitud <br>
   
-se emplean usando la nomeclatura del punto: <hr />
+se emplean usando la nomeclatura del punto: <br>
     cadenas.metodo <br>
     cadena.propiedad <br>
 
@@ -313,7 +313,6 @@ se emplean usando la nomeclatura del punto: <hr />
 
 [W3School JavaScripts](https://www.w3schools.com/js/js_strings.asp)
     
-
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
