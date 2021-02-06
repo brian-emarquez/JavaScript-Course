@@ -1,3 +1,9 @@
 ## Metodos y propiedades de los String
 
-- Metodo : es aquello que la cadenas pueder ejercer, Ej: Covertirse en mayusulas
+- METODO : es aquello que la cadenas pueder ejercer, Ej: Covertirse en mayúslas
+- PROPIEDAD: son las caracteristicas que la cadena tiene por ser cadena: Ej: Longitud <br>
+  
+se emplean usando la nomeclatura del punto: <hr />
+    cadenas.metodo <br>
+    cadena.propiedad <br>
+    
