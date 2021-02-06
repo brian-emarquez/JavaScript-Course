@@ -6,4 +6,8 @@
 se emplean usando la nomeclatura del punto: <hr />
     cadenas.metodo <br>
     cadena.propiedad <br>
+
+## Ejemplos 
+
+(w3schools JavaScripts)[https://www.w3schools.com/js/js_strings.asp]
     
