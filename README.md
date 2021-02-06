@@ -47,7 +47,7 @@
 - [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)
 - [Tipos de Operadores](#Tipos-de-Operadores)
 - [Strings](#Strings)
-- [Ojjetos Math](#Post-Instalacion)
+- [Objetos Math](#Objetos-Math)
 - [Condicionales](#Entorno-de-Desarrollo)
 - [Bucles](#Codigo)
 - [Arrays Iteradores](#Cadenas-de-texto)
@@ -317,6 +317,14 @@ se emplean usando la nomeclatura del punto: <br>
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
 | [Strings](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Strings)   
+
+---
+
+## Objetos Math
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Objeto Math](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Objeto_Math) 
 
 ---
 ## Paypal
