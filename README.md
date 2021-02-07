@@ -342,7 +342,7 @@ Metodos: <br>
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Objeto Math](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Objeto_Math) 
+| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Condicionales) 
 
 ---
 
