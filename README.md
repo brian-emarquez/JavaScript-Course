@@ -296,7 +296,7 @@ Operadores aritméticos
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Tipo_de_Operadores)          |      ✔️     |
+| [Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/002%20Tipo_de_Operadores)          |      ✔️     |
 ---
 ## Strings
 
