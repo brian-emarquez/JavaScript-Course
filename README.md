@@ -198,7 +198,7 @@ Tecnologias Independiente:
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Variables)          |      ✔️     | 
+| [Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables)          |      ✔️     | 
 
 
 ---
@@ -316,7 +316,7 @@ se emplean usando la nomeclatura del punto: <br>
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Strings](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Strings)   
+| [Strings](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/003%20Strings)   
 
 ---
 
@@ -345,7 +345,7 @@ Metodos: <br>
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/Condicionales) 
+| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/004%20Objeto_Math) 
 
 ---
 
