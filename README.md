@@ -316,7 +316,7 @@ se emplean usando la nomeclatura del punto: <br>
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Strings](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/003%20Strings)   
+| [Strings](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/003%20Strings)   |      ✔️     | 
 
 ---
 
@@ -345,7 +345,7 @@ Metodos: <br>
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/004%20Objeto_Math) 
+| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/004%20Objeto_Math) |      ✔️     | 
 
 ---
 
