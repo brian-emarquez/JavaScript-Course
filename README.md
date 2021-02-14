@@ -39,13 +39,13 @@
 
 | Numeration   | Check  |Topic          |
 | ------------ |--------|-------------- |
-|      |✔️ | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  
-|      |✔️ | [Brendan Eich](#Brendan-Eich)  |  
-|      |✔️ | [Historia de JavaScript](#Historia-de-JavaScript)  |  
-|      |✔️ | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  
-|      |✔️ | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  
-|      |✔️ | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  
-|      |✔️ | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  
+|  -   |✔️ | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  
+|  -   |✔️ | [Brendan Eich](#Brendan-Eich)  |  
+|  -   |✔️ | [Historia de JavaScript](#Historia-de-JavaScript)  |  
+|  -   |✔️ | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  
+|  -   |✔️ | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  
+|  -   |✔️ | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  
+|  -   |✔️ | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  
 | 001     |✔️ | [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)   |  
 | 002     |✔️ | [Tipos de Operadores](#Tipos-de-Operadores)  |  
 | 003     |✔️ | [Strings](#Strings)   |  
