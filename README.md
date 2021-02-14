@@ -36,41 +36,46 @@
 📦 [Install Prepros](https://prepros.io/) Intalador de Prepros.<br>
 
 ## Temario
+## Temario
 
-- [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)
-- [Brendan Eich](#Brendan-Eich)
-- [Historia de JavaScript](#Historia-de-JavaScript)
-- [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)
-- [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)
-- [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)
-- [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)
-- [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)
-- [Tipos de Operadores](#Tipos-de-Operadores)
-- [Strings](#Strings)
-- [Objetos Math](#Objetos-Math)
-- [Condicionales](#Condicionales)
-- [Bucles](#Codigo)
-- [Arrays Iteradores](#Cadenas-de-texto)
-- [Spread Operator](#Heredoc)
-- [Programacion Orientada a Objetos](#Niveles-de-Error)
-- [Objetos](#Operadores)
-- [Propiedades y Metodos](#Operadores-de-Comparación)
-- [Tipos de Funciones en JavaScript](#Operador-Ternario)
-- [Funciones](#Operador-"Nave-Espacial")
-- [Clases y contructores en JavaScripts](#Operador-"Nave-Espacial")
-- [Prototipos](#Operador-"Nave-Espacial")
-- [Symbols](#Operador-"Nave-Espacial")
-- [Maps](#Operador-"Nave-Espacial")
-- [Sets](#Operador-"Nave-Espacial")
-- [Integrando JavaScripts con HTML](#Operador-"Nave-Espacial")
-- [Introcuccion a Eventos](#Operador-"Nave-Espacial")
-- [DOM Documet Object Model](#Operador-"Nave-Espacial")
-- [Trabajando con Eventos](#Operador-"Nave-Espacial")
-- [Formularios y Expresiones Regulares](#Operador-"Nave-Espacial")
-- [Objeto Date](#Operador-"Nave-Espacial")
-- [Temporazadores](#Operador-"Nave-Espacial")
-- [APIs HTML5](#Operador-"Nave-Espacial")
-- [Practicas Finales](#Operador-"Nave-Espacial")
+| Numeration   | Check  |Topic          |
+| ------------ |--------|-------------- |
+| 001     |✔️ | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  
+| 001     |✔️ | [Brendan Eich](#Brendan-Eich)  |  
+| 001     |✔️ | [Historia de JavaScript](#Historia-de-JavaScript)  |  
+| 001     |✔️ | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  
+| 001     |✔️ | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  
+| 001     |✔️ | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  
+| 001     |✔️ | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  
+| 001     |✔️ | [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)   |  
+| 001     |✔️ | [Tipos de Operadores](#Tipos-de-Operadores)  |  
+| 001     |✔️ | [Strings](#Strings)   |  
+| 001     |✔️ | [Objetos Math](#Objetos-Math)  | 
+| 001     |✔️ | [Condicionales](#Condicionales)   |  
+| 001     |✔️ | [Condicionales](#Condicionales)   |  
+| 001     |✔️ | [Bucles](#Cadenas-de-texto)   |  
+| 001     |✔️ | [Arrays Iteradores](#Niveles-de-Error)  |  
+| 001     |✔️ | [Spread Operator](#Niveles-de-Error) |  
+| 001     |✔️ | [Programacion Orientada a Objetos](#Niveles-de-Error) |  
+| 001     |✔️ | [Objetos](#Operadores)  |  
+| 001     |✔️ | [Propiedades y Metodos](#Operadores-de-Comparación)  |  
+| 001     |✔️ | [Tipos de Funciones en JavaScript](#Operador-Ternario)  |  
+| 001     |✔️ | [Funciones](#Operador-"Nave-Espacial")  |
+| 001     |✔️ | [Clases y contructores en JavaScripts](#Operador-"Nave-Espacial") | 
+| 001     |✔️ | [Prototipos](#Operador-"Nave-Espacial") |  
+| 001     |✔️ | [Symbols](#Operador-"Nave-Espacial")|  
+| 001     |✔️ | [Maps](#Operador-"Nave-Espacial") |  
+| 001     |✔️ | [Sets](#Operador-"Nave-Espacial") |  
+| 001     |✔️ | [Integrando JavaScripts con HTML](#Operador-"Nave-Espacial")|  
+| 001     |✔️ | [Introcuccion a Eventos](#Operador-"Nave-Espacial")|  
+| 001     |✔️ | [DOM Documet Object Model](#Operador-"Nave-Espacial")|  
+| 001     |✔️ | [Trabajando con Eventos](#Operador-"Nave-Espacial")|  
+| 001     |✔️ | [Formularios y Expresiones Regulares](#Operador-"Nave-Espacial")|  
+| 001     |✔️ | [Objeto Date](#Operador-"Nave-Espacial")|  
+| 001     |✔️ | [Temporazadores](#Operador-"Nave-Espacial")|  
+| 001     |✔️ | [APIs HTML5](#Operador-"Nave-Espacial")|  
+| 001     |✔️ | [Practicas Finales](#Operador-"Nave-Espacial")|  
+
 
 ## Que es JAVASCRIPT
 
