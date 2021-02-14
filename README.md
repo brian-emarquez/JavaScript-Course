@@ -355,6 +355,81 @@ Metodos: <br>
 ---
 
 ## Condicionales
+
+### Condicionales
+Estructuras de control de flujo:
+
+    - Condicionales
+        Simples
+        Compuestos
+        Multiples
+
+    - Bucles
+        Determinados
+        Indeterminados
+
+### Sintaxis
+
+-   Sintaxis Simple:
+    <br>
+    ```js
+    if(condicion){
+    //Codigo
+    }
+    ```
+
+-   Sintaxis Compuesto:
+    <br>
+    ```js
+    if(condicion){
+    //Codigo
+    }else{
+    //codigo
+    }
+    ```
+    
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/005%20Condicionales) |      ✔️     | 
+    
+---
+
+## Operadores Logicos
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [operadores Logico](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/006%20operadores_Logicos) |      ✔️     | 
+
+---
+
+## Condicional Swich
+
+- Se utiiza para elegir un camino de varios prestablecdos:
+
+```js
+switch (expresión) {
+  case valor1:
+    //Declaraciones ejecutadas cuando el resultado de expresión coincide con el valor1
+    [break;]
+  case valor2:
+    //Declaraciones ejecutadas cuando el resultado de expresión coincide con el valor2
+    [break;]
+  ...
+  case valorN:
+    //Declaraciones ejecutadas cuando el resultado de expresión coincide con valorN
+    [break;]
+  default:
+    //Declaraciones ejecutadas cuando ninguno de los valores coincide con el valor de la expresión
+    [break;]
+}
+```
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Condicional Swich](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/007%20Condicional%20Swich/readme.md) |      ✔️     | 
+
+---
+
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
