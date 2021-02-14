@@ -36,7 +36,6 @@
 📦 [Install Prepros](https://prepros.io/) Intalador de Prepros.<br>
 
 ## Temario
-## Temario
 
 | Numeration   | Check  |Topic          |
 | ------------ |--------|-------------- |
