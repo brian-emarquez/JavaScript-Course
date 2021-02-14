@@ -426,7 +426,7 @@ switch (expresión) {
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Condicional Swich](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/007%20Condicional%20Swich/readme.md) |      ✔️     | 
+| [Condicional Swich](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/007%20Condicional%20Swich) |      ✔️     | 
 
 ---
 
