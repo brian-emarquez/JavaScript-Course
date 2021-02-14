@@ -39,19 +39,20 @@
 
 | Numeration   | Check  |Topic          |
 | ------------ |--------|-------------- |
-| 001     |✔️ | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  
-| 001     |✔️ | [Brendan Eich](#Brendan-Eich)  |  
-| 001     |✔️ | [Historia de JavaScript](#Historia-de-JavaScript)  |  
-| 001     |✔️ | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  
-| 001     |✔️ | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  
-| 001     |✔️ | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  
-| 001     |✔️ | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  
+|      |✔️ | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  
+|      |✔️ | [Brendan Eich](#Brendan-Eich)  |  
+|      |✔️ | [Historia de JavaScript](#Historia-de-JavaScript)  |  
+|      |✔️ | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  
+|      |✔️ | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  
+|      |✔️ | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  
+|      |✔️ | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  
 | 001     |✔️ | [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)   |  
-| 001     |✔️ | [Tipos de Operadores](#Tipos-de-Operadores)  |  
-| 001     |✔️ | [Strings](#Strings)   |  
-| 001     |✔️ | [Objetos Math](#Objetos-Math)  | 
-| 001     |✔️ | [Condicionales](#Condicionales)   |  
-| 001     |✔️ | [Condicionales](#Condicionales)   |  
+| 002     |✔️ | [Tipos de Operadores](#Tipos-de-Operadores)  |  
+| 003     |✔️ | [Strings](#Strings)   |  
+| 004     |✔️ | [Objetos Math](#Objetos-Math)  | 
+| 005     |✔️ | [Condicionales](#Condicionales)   | 
+| 006     |✔️ | [Operadores Logicos](#Operadores-Logico)   | 
+| 006     |✔️ | [Condicinal Switch](#Condicinal-Switch)   | 
 | 001     |✔️ | [Bucles](#Cadenas-de-texto)   |  
 | 001     |✔️ | [Arrays Iteradores](#Niveles-de-Error)  |  
 | 001     |✔️ | [Spread Operator](#Niveles-de-Error) |  
