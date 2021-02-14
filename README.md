@@ -52,7 +52,7 @@
 | 004     |✔️ | [Objetos Math](#Objetos-Math)  | 
 | 005     |✔️ | [Condicionales](#Condicionales)   | 
 | 006     |✔️ | [Operadores Logicos](#Operadores-Logico)   | 
-| 006     |✔️ | [Condicinal Switch](#Condicinal-Switch)   | 
+| 007     |✔️ | [Condicinal Switch](#Condicinal-Switch)   | 
 | 001     |✔️ | [Bucles](#Cadenas-de-texto)   |  
 | 001     |✔️ | [Arrays Iteradores](#Niveles-de-Error)  |  
 | 001     |✔️ | [Spread Operator](#Niveles-de-Error) |  
@@ -432,11 +432,6 @@ switch (expresión) {
 
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
-
-
-
-
-
 
 
 
