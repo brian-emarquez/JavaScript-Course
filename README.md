@@ -402,7 +402,7 @@ Estructuras de control de flujo:
 
 ---
 
-## Condicional Swich
+## Condicinal Switch
 
 - Se utiiza para elegir un camino de varios prestablecdos:
 
