@@ -51,7 +51,7 @@
 | 003     |✔️ | [Strings](#Strings)   |  
 | 004     |✔️ | [Objetos Math](#Objetos-Math)  | 
 | 005     |✔️ | [Condicionales](#Condicionales)   | 
-| 006     |✔️ | [Operadores Logicos](#Operadores Logicos)   | 
+| 006     |✔️ | [Operadores Logicos](#Operadores-Logicos)   | 
 | 007     |✔️ | [Condicinal Switch](#Condicinal-Switch)   | 
 | 001     |✔️ | [Bucles](#Cadenas-de-texto)   |  
 | 001     |✔️ | [Arrays Iteradores](#Niveles-de-Error)  |  
