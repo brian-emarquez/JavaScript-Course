@@ -485,7 +485,7 @@ let array = [1,2,3,4,5,]
 
 | Carpeta                    | Link |     
 |----------------------------|:-----------:|
-| [Array](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/010%20Array/readme.md) |      ✔️     | 
+| [Array](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/010%20Array) |      ✔️     | 
 
 ---
 ## Paypal
