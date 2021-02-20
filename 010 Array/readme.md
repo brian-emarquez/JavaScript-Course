@@ -14,4 +14,4 @@ let array =[]
 ley array = [1,2,3,4,5,]
 ```
 
-![javascripts](./images/array.png)
+![javascripts](../images/array.png)
