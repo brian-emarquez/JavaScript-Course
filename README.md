@@ -53,28 +53,30 @@
 | 005     |✔️ | [Condicionales](#Condicionales)   | 
 | 006     |✔️ | [Operadores Logicos](#Operadores-Logicos)   | 
 | 007     |✔️ | [Condicinal Switch](#Condicinal-Switch)   | 
-| 001     |✔️ | [Bucles](#Cadenas-de-texto)   |  
-| 001     |✔️ | [Arrays Iteradores](#Niveles-de-Error)  |  
-| 001     |✔️ | [Spread Operator](#Niveles-de-Error) |  
-| 001     |✔️ | [Programacion Orientada a Objetos](#Niveles-de-Error) |  
-| 001     |✔️ | [Objetos](#Operadores)  |  
-| 001     |✔️ | [Propiedades y Metodos](#Operadores-de-Comparación)  |  
-| 001     |✔️ | [Tipos de Funciones en JavaScript](#Operador-Ternario)  |  
-| 001     |✔️ | [Funciones](#Operador-"Nave-Espacial")  |
-| 001     |✔️ | [Clases y contructores en JavaScripts](#Operador-"Nave-Espacial") | 
-| 001     |✔️ | [Prototipos](#Operador-"Nave-Espacial") |  
-| 001     |✔️ | [Symbols](#Operador-"Nave-Espacial")|  
-| 001     |✔️ | [Maps](#Operador-"Nave-Espacial") |  
-| 001     |✔️ | [Sets](#Operador-"Nave-Espacial") |  
-| 001     |✔️ | [Integrando JavaScripts con HTML](#Operador-"Nave-Espacial")|  
-| 001     |✔️ | [Introcuccion a Eventos](#Operador-"Nave-Espacial")|  
-| 001     |✔️ | [DOM Documet Object Model](#Operador-"Nave-Espacial")|  
-| 001     |✔️ | [Trabajando con Eventos](#Operador-"Nave-Espacial")|  
-| 001     |✔️ | [Formularios y Expresiones Regulares](#Operador-"Nave-Espacial")|  
-| 001     |✔️ | [Objeto Date](#Operador-"Nave-Espacial")|  
-| 001     |✔️ | [Temporazadores](#Operador-"Nave-Espacial")|  
-| 001     |✔️ | [APIs HTML5](#Operador-"Nave-Espacial")|  
-| 001     |✔️ | [Practicas Finales](#Operador-"Nave-Espacial")|  
+| 008   |✔️ | [Ordenar 3 numero de mayor a menor](#008-ordenar-3-numero-de-mayor-a-menoro)   |
+| 009   |✔️ | [Operador Ternario](#operador-ternario)   |
+| 010   |✔️ | [Array](#array)   |
+|     |✔️ | [Arrays Iteradores](#Niveles-de-Error)  |  
+|     |✔️ | [Spread Operator](#Niveles-de-Error) |  
+|     |✔️ | [Programacion Orientada a Objetos](#Niveles-de-Error) |  
+|      |✔️ | [Objetos](#Operadores)  |  
+|      |✔️ | [Propiedades y Metodos](#Operadores-de-Comparación)  |  
+|      |✔️ | [Tipos de Funciones en JavaScript](#Operador-Ternario)  |  
+|     |✔️ | [Funciones](#Operador-"Nave-Espacial")  |
+|      |✔️ | [Clases y contructores en JavaScripts](#Operador-"Nave-Espacial") | 
+|      |✔️ | [Prototipos](#Operador-"Nave-Espacial") |  
+|      |✔️ | [Symbols](#Operador-"Nave-Espacial")|  
+|      |✔️ | [Maps](#Operador-"Nave-Espacial") |  
+|      |✔️ | [Sets](#Operador-"Nave-Espacial") |  
+|      |✔️ | [Integrando JavaScripts con HTML](#Operador-"Nave-Espacial")|  
+|     |✔️ | [Introcuccion a Eventos](#Operador-"Nave-Espacial")|  
+|     |✔️ | [DOM Documet Object Model](#Operador-"Nave-Espacial")|  
+|     |✔️ | [Trabajando con Eventos](#Operador-"Nave-Espacial")|  
+|     |✔️ | [Formularios y Expresiones Regulares](#Operador-"Nave-Espacial")|  
+|     |✔️ | [Objeto Date](#Operador-"Nave-Espacial")|  
+|     |✔️ | [Temporazadores](#Operador-"Nave-Espacial")|  
+|     |✔️ | [APIs HTML5](#Operador-"Nave-Espacial")|  
+|     |✔️ | [Practicas Finales](#Operador-"Nave-Espacial")|  
 
 
 ## Que es JAVASCRIPT
@@ -429,7 +431,63 @@ switch (expresión) {
 | [Condicional Swich](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/007%20Condicional%20Swich) |      ✔️     | 
 
 ---
+## Ordenar 3 numero de mayor a menor
 
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Ordenar 3 numero de mayor a menor](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/008%20ordenar%203%20numero%20de%20mayor%20a%20menor) |      ✔️     | 
+
+---
+
+## Operador Ternario
+
+- Se utliza cuando una condicion serña TRUE O FALSE , al igual que el if.
+- Su ejecucion puede tener una o varias sentenciasm en este caso iran separadas por comas y entre parentesis.
+
+### Sintaxis
+* Una sentencia
+
+```js
+(condicion)? true:false
+```
+
+* Varias Sentencias
+
+```js
+(condicion)? 
+    (primera_sentenca,
+    segunda_sentencia)
+```
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Operador Ternario](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/009%20operador%20ternario) |      ✔️     | 
+
+---
+
+## Array 
+
+- son estructuras que nos permiten almacenar varios dartos agrupados
+- se pueden llenar con cualquier tipo de dato valido en javascript y deben ir separados por comas
+- se puden mezclar tipos de datos, pero no es recomendable
+- se declaran con llaves cuadradas o corchetes
+- Puweden declararse vacios o con un conetenido ya establecido
+- Pueden añadirse  o eliminarse elementos en el momento que quedramos
+
+### Sintaxis
+
+```js
+let array =[]
+let array = [1,2,3,4,5,]
+```
+
+![javascripts](../images/array.png)
+
+| Carpeta                    | Link |     
+|----------------------------|:-----------:|
+| [Array](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/010%20Array/readme.md) |      ✔️     | 
+
+---
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
