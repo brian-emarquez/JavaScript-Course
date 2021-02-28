@@ -499,7 +499,7 @@ let array = [1,2,3,4,5,]
 
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Array]https://github.com/BrianMarquez3/JavaScript-Course/tree/main/011%20Array%20II) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+| [ArrayII](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/011%20Array%20II) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
 
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
