@@ -37,7 +37,7 @@
 
 ## Instalación
 
-📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code
+📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code <br>
 📦 [Install Node.js](https://nodejs.org/es/download/) Instalador de Node.<br>
 📦 [Install IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/#section=windows) Intalador IntelliJ IDEA.<br>
 📦 [Install Prepros](https://prepros.io/) Intalador de Prepros.<br>
@@ -210,9 +210,9 @@ Tecnologias Independiente:
   - <strong> Null</strong>
   - <strong> Symbol </strong>
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables)          |      ✔️     | 
+| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables)          |      :hourglass:       | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :hourglass:   |
 
 
 ---
