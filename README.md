@@ -47,45 +47,45 @@
 | Numeration   | Check  |Topic          | Quantization   |     link          |
 | ------------ |--------|-------------- |--------------- |------------------ |
 |  -    |:heavy_check_mark: | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Brendan Eich](#Brendan-Eich)  |  
-|  -    |:heavy_check_mark: | [Historia de JavaScript](#Historia-de-JavaScript)  |  
-|  -    |:heavy_check_mark: | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  
-|  -    |:heavy_check_mark: | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  
-|  -    |:heavy_check_mark: | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  
-|  -    |:heavy_check_mark: | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  
-| 001   |:heavy_check_mark: | [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)   |  
-| 002   |:heavy_check_mark: | [Tipos de Operadores](#Tipos-de-Operadores)  |  
-| 003   |:heavy_check_mark: | [Strings](#Strings)   |  
-| 004   |:heavy_check_mark: | [Objetos Math](#Objetos-Math)  | 
-| 005   |:heavy_check_mark: | [Condicionales](#Condicionales)   | 
-| 006   |:heavy_check_mark: | [Operadores Logicos](#Operadores-Logicos)   | 
-| 007   |:heavy_check_mark: | [Condicinal Switch](#Condicinal-Switch)   | 
-| 008   |:heavy_check_mark: | [Ordenar 3 numero de mayor a menor](#008-ordenar-3-numero-de-mayor-a-menoro)   |
-| 009   |:heavy_check_mark: | [Operador Ternario](#operador-ternario)   |
-| 010   |:heavy_check_mark: | [Array](#array)   |
-| 011   |:heavy_check_mark: | [Arrays II](#Arrays-II)  |  
-|       |:heavy_check_mark: | [Spread Operator](#Niveles-de-Error) |  
-|       |:heavy_check_mark: | [Programacion Orientada a Objetos](#Niveles-de-Error)|  
-|       |:heavy_check_mark: | [Objetos](#Operadores)  |  
-|       |:heavy_check_mark: | [Propiedades y Metodos](#Operadores-de-Comparación)  |  
-|       |:heavy_check_mark: | [Tipos de Funciones en JavaScript](#Operador-Ternario)|  
-|       |:heavy_check_mark: | [Funciones](#Operador-"Nave-Espacial")  |
-|       |:heavy_check_mark: | [Clases y contructores en JavaScripts](#Operador-"Nave-Espacial") | 
-|       |:heavy_check_mark: | [Prototipos](#Operador-"Nave-Espacial") |  
-|       |:heavy_check_mark: | [Symbols](#Operador-"Nave-Espacial")|  
-|       |:heavy_check_mark: | [Maps](#Operador-"Nave-Espacial") |  
-|       |:heavy_check_mark: | [Sets](#Operador-"Nave-Espacial") |  
-|       |:heavy_check_mark: | [Integrando JavaScripts con HTML](#Operador-"Nave-Espacial")|  
-|       |:heavy_check_mark: | [Introcuccion a Eventos](#Operador-"Nave-Espacial")|  
-|       |:heavy_check_mark: | [DOM Documet Object Model](#Operador-"Nave-Espacial")|  
-|       |:heavy_check_mark: | [Trabajando con Eventos](#Operador-"Nave-Espacial")|  
-|       |:heavy_check_mark: | [Formularios y Expresiones Regulares](#Operador-"Nave-Espacial")|  
-|       |:heavy_check_mark: | [Objeto Date](#Operador-"Nave-Espacial")|  
-|       |:heavy_check_mark: | [Temporazadores](#Operador-"Nave-Espacial")|  
-|       |:heavy_check_mark: | [APIs HTML5](#Operador-"Nave-Espacial")|  
-|       |:heavy_check_mark: | [Practicas Finales](#Operador-"Nave-Espacial")|  
+|  -    |:heavy_check_mark: | [Brendan Eich](#Brendan-Eich)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Historia de JavaScript](#Historia-de-JavaScript)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  -    |:heavy_check_mark: | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 001   |:heavy_check_mark: | [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 002   |:heavy_check_mark: | [Tipos de Operadores](#Tipos-de-Operadores)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 003   |:heavy_check_mark: | [Strings](#Strings)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 004   |:heavy_check_mark: | [Objetos Math](#Objetos-Math)  | :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 005   |:heavy_check_mark: | [Condicionales](#Condicionales)   | :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 006   |:heavy_check_mark: | [Operadores Logicos](#Operadores-Logicos)   | :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 007   |:heavy_check_mark: | [Condicinal Switch](#Condicinal-Switch)   | :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 008   |:heavy_check_mark: | [Ordenar 3 numero de mayor a menor](#008-ordenar-3-numero-de-mayor-a-menoro)   |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 009   |:heavy_check_mark: | [Operador Ternario](#operador-ternario)   |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 010   |:heavy_check_mark: | [Array](#array)   |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 011   |:heavy_check_mark: | [Arrays II](#Arrays-II)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Spread Operator](#Niveles-de-Error) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Programacion Orientada a Objetos](#Niveles-de-Error)| :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
+|       |:heavy_check_mark: | [Objetos](#Operadores)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Propiedades y Metodos](#Operadores-de-Comparación)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Tipos de Funciones en JavaScript](#Operador-Ternario)|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Funciones](#Operador-"Nave-Espacial")  |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Clases y contructores en JavaScripts](#Operador-"Nave-Espacial") | :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Prototipos](#Operador-"Nave-Espacial") |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Symbols](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Maps](#Operador-"Nave-Espacial") |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Sets](#Operador-"Nave-Espacial") |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Integrando JavaScripts con HTML](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Introcuccion a Eventos](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [DOM Documet Object Model](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Trabajando con Eventos](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Formularios y Expresiones Regulares](#Operador-"Nave-Espacial")|:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
+|       |:heavy_check_mark: | [Objeto Date](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Temporazadores](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [APIs HTML5](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Practicas Finales](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
-
+---
 ## Que es JAVASCRIPT
 
 - JavaScript es un lenguaje de Programacion.
