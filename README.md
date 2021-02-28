@@ -11,7 +11,7 @@
   <a href="https://github.com/BrianMarquez3/JavaScript-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/JavaScript-Course.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/JavaScript-Course?color=gren&label=Version&logo=java">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/JavaScript-Course?color=gren&label=Version&logo=JavaScript">
   </a>
   
   </a>
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
   </a><br>
  
-  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/JavaScript-Course?color=darkred&style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/JavaScript-Course?color=yellow&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/JavaScript-Course?style=for-the-badge">
 
   
