@@ -2,8 +2,8 @@
 
 <p align="center">
   
-  <a href="https://github.com/BrianMarquez3/JavaScript-Course/tags">
-    <img src="https://img.shields.io/github/tag/BrianMarquez3/JavaScript-Course.svg?label=version&style=flat" alt="Version">
+  </a>
+    <img src="https://img.shields.io/github/languages/top/JavaScript-Course/Learning-Java?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/JavaScript-Course/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/JavaScript-Course.svg?style=flat" alt="Stars">
@@ -11,20 +11,25 @@
   <a href="https://github.com/BrianMarquez3/JavaScript-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/JavaScript-Course.svg?style=flat" alt="Forks">
   </a>
-  <a href="https://github.com/BrianMarquez3/JavaScript-Course/network">
-    <img src="https://img.shields.io/badge/coverage-80%25-yellowgreen">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/JavaScript-Course?color=gren&label=Version&logo=java">
   </a>
-   <a href="https://github.com/BrianMarquez3/JavaScript-Course/network">
-    <img src="https://img.shields.io/badge/gem-2.2.0-blue">
+  
   </a>
-   <a href="https://github.com/BrianMarquez3/JavaScript-Course/network">
-    <img src="https://img.shields.io/badge/dependencies-out%20of%20date-orange">
+    <img src="https://img.shields.io/github/languages/code-size/JavaScript-Course/Learning-Java-Java">
   </a>
+  
+  </a>
+    <img src="https://img.shields.io/github/downloads/BrianMarquez3/JavaScript-Course/total?color=violet">
+  </a>
+  
    </a>
    <a href="https://github.com/BrianMarquez3/JavaScript-Course/network">
     <img src="https://img.shields.io/badge/Plataform-Windows-blue">
-  </a>
-</p>
+  </a><br>
+ 
+  <img src="https://img.shields.io/github/last-commit/BrianMarquez3/JavaScript-Course?color=darkred&style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/count/BrianMarquez3/JavaScript-Course?style=for-the-badge">
+
   
 ![javascripts](./images/js.png)
 
@@ -39,44 +44,44 @@
 
 | Numeration   | Check  |Topic          |
 | ------------ |--------|-------------- |
-|  -   |✔️ | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  
-|  -   |✔️ | [Brendan Eich](#Brendan-Eich)  |  
-|  -   |✔️ | [Historia de JavaScript](#Historia-de-JavaScript)  |  
-|  -   |✔️ | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  
-|  -   |✔️ | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  
-|  -   |✔️ | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  
-|  -   |✔️ | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  
-| 001     |✔️ | [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)   |  
-| 002     |✔️ | [Tipos de Operadores](#Tipos-de-Operadores)  |  
-| 003     |✔️ | [Strings](#Strings)   |  
-| 004     |✔️ | [Objetos Math](#Objetos-Math)  | 
-| 005     |✔️ | [Condicionales](#Condicionales)   | 
-| 006     |✔️ | [Operadores Logicos](#Operadores-Logicos)   | 
-| 007     |✔️ | [Condicinal Switch](#Condicinal-Switch)   | 
+|  -    |✔️ | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  
+|  -    |✔️ | [Brendan Eich](#Brendan-Eich)  |  
+|  -    |✔️ | [Historia de JavaScript](#Historia-de-JavaScript)  |  
+|  -    |✔️ | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  
+|  -    |✔️ | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  
+|  -    |✔️ | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  
+|  -    |✔️ | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  
+| 001   |✔️ | [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)   |  
+| 002   |✔️ | [Tipos de Operadores](#Tipos-de-Operadores)  |  
+| 003   |✔️ | [Strings](#Strings)   |  
+| 004   |✔️ | [Objetos Math](#Objetos-Math)  | 
+| 005   |✔️ | [Condicionales](#Condicionales)   | 
+| 006   |✔️ | [Operadores Logicos](#Operadores-Logicos)   | 
+| 007   |✔️ | [Condicinal Switch](#Condicinal-Switch)   | 
 | 008   |✔️ | [Ordenar 3 numero de mayor a menor](#008-ordenar-3-numero-de-mayor-a-menoro)   |
 | 009   |✔️ | [Operador Ternario](#operador-ternario)   |
 | 010   |✔️ | [Array](#array)   |
-|     |✔️ | [Arrays Iteradores](#Niveles-de-Error)  |  
-|     |✔️ | [Spread Operator](#Niveles-de-Error) |  
-|     |✔️ | [Programacion Orientada a Objetos](#Niveles-de-Error) |  
-|      |✔️ | [Objetos](#Operadores)  |  
-|      |✔️ | [Propiedades y Metodos](#Operadores-de-Comparación)  |  
-|      |✔️ | [Tipos de Funciones en JavaScript](#Operador-Ternario)  |  
-|     |✔️ | [Funciones](#Operador-"Nave-Espacial")  |
-|      |✔️ | [Clases y contructores en JavaScripts](#Operador-"Nave-Espacial") | 
-|      |✔️ | [Prototipos](#Operador-"Nave-Espacial") |  
-|      |✔️ | [Symbols](#Operador-"Nave-Espacial")|  
-|      |✔️ | [Maps](#Operador-"Nave-Espacial") |  
-|      |✔️ | [Sets](#Operador-"Nave-Espacial") |  
-|      |✔️ | [Integrando JavaScripts con HTML](#Operador-"Nave-Espacial")|  
-|     |✔️ | [Introcuccion a Eventos](#Operador-"Nave-Espacial")|  
-|     |✔️ | [DOM Documet Object Model](#Operador-"Nave-Espacial")|  
-|     |✔️ | [Trabajando con Eventos](#Operador-"Nave-Espacial")|  
-|     |✔️ | [Formularios y Expresiones Regulares](#Operador-"Nave-Espacial")|  
-|     |✔️ | [Objeto Date](#Operador-"Nave-Espacial")|  
-|     |✔️ | [Temporazadores](#Operador-"Nave-Espacial")|  
-|     |✔️ | [APIs HTML5](#Operador-"Nave-Espacial")|  
-|     |✔️ | [Practicas Finales](#Operador-"Nave-Espacial")|  
+| 011   |✔️ | [Arrays II](#Arrays-II)  |  
+|       |✔️ | [Spread Operator](#Niveles-de-Error) |  
+|       |✔️ | [Programacion Orientada a Objetos](#Niveles-de-Error)|  
+|       |✔️ | [Objetos](#Operadores)  |  
+|       |✔️ | [Propiedades y Metodos](#Operadores-de-Comparación)  |  
+|       |✔️ | [Tipos de Funciones en JavaScript](#Operador-Ternario)|  
+|       |✔️ | [Funciones](#Operador-"Nave-Espacial")  |
+|       |✔️ | [Clases y contructores en JavaScripts](#Operador-"Nave-Espacial") | 
+|       |✔️ | [Prototipos](#Operador-"Nave-Espacial") |  
+|       |✔️ | [Symbols](#Operador-"Nave-Espacial")|  
+|       |✔️ | [Maps](#Operador-"Nave-Espacial") |  
+|       |✔️ | [Sets](#Operador-"Nave-Espacial") |  
+|       |✔️ | [Integrando JavaScripts con HTML](#Operador-"Nave-Espacial")|  
+|       |✔️ | [Introcuccion a Eventos](#Operador-"Nave-Espacial")|  
+|       |✔️ | [DOM Documet Object Model](#Operador-"Nave-Espacial")|  
+|       |✔️ | [Trabajando con Eventos](#Operador-"Nave-Espacial")|  
+|       |✔️ | [Formularios y Expresiones Regulares](#Operador-"Nave-Espacial")|  
+|       |✔️ | [Objeto Date](#Operador-"Nave-Espacial")|  
+|       |✔️ | [Temporazadores](#Operador-"Nave-Espacial")|  
+|       |✔️ | [APIs HTML5](#Operador-"Nave-Espacial")|  
+|       |✔️ | [Practicas Finales](#Operador-"Nave-Espacial")|  
 
 
 ## Que es JAVASCRIPT
