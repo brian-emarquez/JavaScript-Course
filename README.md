@@ -64,7 +64,7 @@
 | 009   |:heavy_check_mark: | [Operador Ternario](#operador-ternario)   |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 010   |:heavy_check_mark: | [Array](#array)   |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 011   |:heavy_check_mark: | [Arrays II](#Arrays-II)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Bucles](#Bucles) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 012   |:heavy_check_mark: | [Bucles](#Bucles) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |       |:heavy_check_mark: | [Programacion Orientada a Objetos](#Niveles-de-Error)| :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |       |:heavy_check_mark: | [Objetos](#Operadores)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |       |:heavy_check_mark: | [Propiedades y Metodos](#Operadores-de-Comparación)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -532,7 +532,7 @@ let array = [1,2,3,4,5,]
 
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [ArrayII](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [Bucles ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
 
 ---
 ## Paypal
