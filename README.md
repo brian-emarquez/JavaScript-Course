@@ -495,6 +495,3 @@ let array = [1,2,3,4,5,]
 ---
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
-
-
-
