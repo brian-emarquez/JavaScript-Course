@@ -2,8 +2,10 @@
 
 <p align="center">
   
-  </a>
-    <img src="https://img.shields.io/github/languages/top/JavaScript-Course/Learning-Java?color=red">
+  <p align="center">
+  
+   </a>
+    <img src="https://img.shields.io/github/languages/top/BrianMarquez3/JavaScript-Course?color=red">
   </a>
   <a href="https://github.com/BrianMarquez3/JavaScript-Course/stargazers">
     <img src="https://img.shields.io/github/stars/BrianMarquez3/JavaScript-Course.svg?style=flat" alt="Stars">
@@ -11,11 +13,11 @@
   <a href="https://github.com/BrianMarquez3/JavaScript-Course/network">
     <img src="https://img.shields.io/github/forks/BrianMarquez3/JavaScript-Course.svg?style=flat" alt="Forks">
   </a>
-    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/JavaScript-Course?color=gren&label=Version&logo=JavaScript">
+    <img src="https://img.shields.io/github/v/tag/BrianMarquez3/JavaScript-Course?color=gren&label=Version&logo=java">
   </a>
   
   </a>
-    <img src="https://img.shields.io/github/languages/code-size/JavaScript-Course/Learning-Java-Java">
+    <img src="https://img.shields.io/github/languages/code-size/BrianMarquez3/JavaScript-Course">
   </a>
   
   </a>
