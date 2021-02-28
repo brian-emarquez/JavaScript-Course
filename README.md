@@ -64,7 +64,7 @@
 | 009   |:heavy_check_mark: | [Operador Ternario](#operador-ternario)   |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 010   |:heavy_check_mark: | [Array](#array)   |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 011   |:heavy_check_mark: | [Arrays II](#Arrays-II)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Spread Operator](#Niveles-de-Error) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|       |:heavy_check_mark: | [Bucles](#Bucles) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |       |:heavy_check_mark: | [Programacion Orientada a Objetos](#Niveles-de-Error)| :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
 |       |:heavy_check_mark: | [Objetos](#Operadores)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 |       |:heavy_check_mark: | [Propiedades y Metodos](#Operadores-de-Comparación)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
