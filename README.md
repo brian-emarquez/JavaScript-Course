@@ -499,7 +499,41 @@ let array = [1,2,3,4,5,]
 
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [ArrayII](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/011%20Array%20II) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  
+| [ArrayII](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/011%20Array%20II) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
 
+## Bucles 
+
+- Se usan cuando queremos que un trozo de codigo se repita.
+
+ - Esite buvles determinaso e indeterminados
+
+    * Bucle While:
+    Es un bucle indeterminado ya queno sabemos cuantas vueltas dará durante la ejecucion.
+
+    ```js
+    while(condicion){
+
+        //codigo a ejecutar
+    }
+    ```
+
+    * Bucle D While
+    Es un buble indeterminado ya que no sabmos cuantas vueltas dará durante la ejecucion
+
+     ```js
+    do{
+
+     //codigo a ejecutar
+    }while(condicion)
+
+    
+    ```
+
+
+| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [ArrayII](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+
+---
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
