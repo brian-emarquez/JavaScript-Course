@@ -396,17 +396,18 @@ Estructuras de control de flujo:
     }
     ```
     
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/005%20Condicionales) |      ✔️     | 
+| Carpeta                    | Link | Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/005%20Condicionales) |   |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
     
 ---
 
 ## Operadores Logicos
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [operadores Logico](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/006%20operadores_Logicos) |      ✔️     | 
+| Carpeta                    | Link |  Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [operadores Logico](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/006%20operadores_Logicos) |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
 
 ---
 
@@ -432,16 +433,16 @@ switch (expresión) {
 }
 ```
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Condicional Swich](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/007%20Condicional%20Swich) |      ✔️     | 
+| Carpeta                    | Link |    Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Condicional Swich](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/007%20Condicional%20Swich) |     heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 ---
 ## Ordenar 3 numero de mayor a menor
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Ordenar 3 numero de mayor a menor](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/008%20ordenar%203%20numero%20de%20mayor%20a%20menor) |      ✔️     | 
+| Carpeta                    | Link |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Ordenar 3 numero de mayor a menor](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/008%20ordenar%203%20numero%20de%20mayor%20a%20menor) |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  | 
 
 ---
 
@@ -465,10 +466,9 @@ switch (expresión) {
     segunda_sentencia)
 ```
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Operador Ternario](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/009%20operador%20ternario) |      ✔️     | 
-
+| Carpeta                    | Link |   Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Operador Ternario](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/009%20operador%20ternario) |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 ---
 
 ## Array 
@@ -489,9 +489,9 @@ let array = [1,2,3,4,5,]
 
 ![javascripts](./images/array.png)
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Array](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/010%20Array) |      ✔️     | 
+| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Array](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/010%20Array) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 ---
 ## Paypal
