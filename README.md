@@ -42,7 +42,7 @@
 📦 [Install IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/#section=windows) Intalador IntelliJ IDEA.<br>
 📦 [Install Prepros](https://prepros.io/) Intalador de Prepros.<br>
 
-## Temario
+## Tabla de contenidos
 
 | Numeration   | Check  |Topic          | Quantization   |     link          |
 | ------------ |--------|-------------- |--------------- |------------------ |
@@ -212,8 +212,7 @@ Tecnologias Independiente:
 
 | Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables)          |      :hourglass:       | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :hourglass:   |
-
+| [Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 
 ---
 
@@ -308,9 +307,10 @@ Operadores aritméticos
      
 </table>
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/002%20Tipo_de_Operadores)          |      ✔️     |
+| Carpeta                    | Link |     Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/002%20Tipo_de_Operadores)          |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
 ---
 ## Strings
 
@@ -357,10 +357,9 @@ Metodos: <br>
 ```
     
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/004%20Objeto_Math) |      ✔️     | 
-
+| Carpeta                    | Link |  Home     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/004%20Objeto_Math) |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
 ---
 
 ## Condicionales
