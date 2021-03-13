@@ -1,28 +1,12 @@
-### Bubles
- - Se usan cuando queremos que un trozo de codigo se repita.
+### For
 
- - Esite buvles determinaso e indeterminados
+- Es un buble determinado ya que hay de especificar cuantas vueltas dará durante su ejecucion
 
-    * Bucle While:
-    Es un bucle indeterminado ya queno sabemos cuantas vueltas dará durante la ejecucion.
+- Su sintacis se compone de 3 partes
 
-    ```js
-    while(condicion){
-
-        //codigo a ejecutar
-    }
-    ```
-
-    * Bucle D While
-    Es un buble indeterminado ya que no sabmos cuantas vueltas dará durante la ejecucion
-
-     ```js
-    do{
-
-     //codigo a ejecutar
-    }while(condicion)
-
+    - iniciacion de variable
+    - numero de vueltas
+    - incremento o decremento
     
-    ```
 
 

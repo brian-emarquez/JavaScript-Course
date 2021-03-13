@@ -524,14 +524,14 @@ let array = [1,2,3,4,5,]
 
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Bucle for](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [Bucle for](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/013%20Bucle%20for) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
 
 ---
 ## Bucle for of
 
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/014%20Bucles%20for%20of) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
 
 ---
 ## Paypal
