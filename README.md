@@ -67,6 +67,9 @@
 | 012   |:heavy_check_mark: | [Bucles](#Bucles) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 013   |:heavy_check_mark: | [Bucle for](#Bucle-for) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 014   |:heavy_check_mark: | [Bucle for of](#Bucle-for-of) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 015   |:heavy_check_mark: | [Objetos](#Objetos) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
+| 015   |:heavy_check_mark: | [Funciones](#Funciones) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 
 
 ---
@@ -532,6 +535,22 @@ let array = [1,2,3,4,5,]
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/014%20Bucles%20for%20of) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+
+## Objetos
+
+| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/015%20Objetos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+
+---
+
+## Funciones
+
+| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/014%20Bucles%20for%20of) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+
+---
 
 ---
 ## Paypal
