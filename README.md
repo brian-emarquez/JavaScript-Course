@@ -65,25 +65,9 @@
 | 010   |:heavy_check_mark: | [Array](#array)   |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 011   |:heavy_check_mark: | [Arrays II](#Arrays-II)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 012   |:heavy_check_mark: | [Bucles](#Bucles) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Programacion Orientada a Objetos](#Niveles-de-Error)| :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |  
-|       |:heavy_check_mark: | [Objetos](#Operadores)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Propiedades y Metodos](#Operadores-de-Comparación)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Tipos de Funciones en JavaScript](#Operador-Ternario)|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Funciones](#Operador-"Nave-Espacial")  |:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Clases y contructores en JavaScripts](#Operador-"Nave-Espacial") | :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Prototipos](#Operador-"Nave-Espacial") |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Symbols](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Maps](#Operador-"Nave-Espacial") |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Sets](#Operador-"Nave-Espacial") |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Integrando JavaScripts con HTML](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Introcuccion a Eventos](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [DOM Documet Object Model](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Trabajando con Eventos](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Formularios y Expresiones Regulares](#Operador-"Nave-Espacial")|:hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |   
-|       |:heavy_check_mark: | [Objeto Date](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Temporazadores](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [APIs HTML5](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|       |:heavy_check_mark: | [Practicas Finales](#Operador-"Nave-Espacial")|  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 013   |:heavy_check_mark: | [Bucle for](#Bucle-for) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 014   |:heavy_check_mark: | [Bucle for of](#Bucle-for-of) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 
 ---
 ## Que es JAVASCRIPT
@@ -533,6 +517,21 @@ let array = [1,2,3,4,5,]
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [Bucles ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+
+---
+
+## Bucle for
+
+| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Bucle for](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+
+---
+## Bucle for of
+
+| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
 
 ---
 ## Paypal
