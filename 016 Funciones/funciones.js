@@ -1,25 +1,24 @@
-/* Objetos */
+/******************  Objetos ************************/
+/*
+function saludar(){
+        console.log("Hola");
+}*/
 
-const person = {
-    name: 'brian',
-    age:'26',
-    sons: ['laura', 'diego', 'pepe', 'rosa', 'tomas']
+// funcion para saludar
+//const saludar = () => console.log("Hola");
+//const saludarUsuario = (user) => console.log(`Hola ${user}`);
+//saludar('brian')
+//saludarUsuario('brian')
+
+
+
+//funcion sumar
+// cuando se usa llaves , se tiene que usar el return
+const suma = (num1, num2) => {
+    if(num1==2){
+        return num1+num2
+    }
+    console.log("esto no se va a ejecutar");
+    return num1
 }
-
-//console.log(person.name);
-
-// recorrido al objeto CLAVES
-for(const key in person){
-    console.log(key)
-}
-
-
-// recorrido al objeto VALORES
-for(const key1 in person){
-    console.log(person[key1])
-}
-
-// Recorrido de hijos
-for(const son of person.sons){
-    console.log(`hijos ${son}`)
-}
+console.log(suma(2,10));

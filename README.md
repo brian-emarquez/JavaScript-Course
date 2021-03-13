@@ -538,6 +538,47 @@ let array = [1,2,3,4,5,]
 
 ## Objetos
 
+### Objetos - Introduccion
+ 
+Son estructuras de datos que representan propiedades, valores y acciones que pueden realizar el objeto
+
+Todos lo objetos tienen propiedades o atributos y comportammientos o acciones representados por pares de clave(key)(value)
+
+
+== Objetos Ejemplo ==
+
+```js
+const computer = {
+    screensize: 17,
+    model:'Macbook Pro'
+}
+```
+
+
+```js
+const table = {
+    material: 'madera',
+    width: 160,
+    height: 110
+}
+```
+### Acceso al Objeto
+
+para acceder a las propierdades y acciones del objeto se utiliza la nomanclatura del punto
+
+```js
+const person = {
+    name: 'brian',
+    age:'26',
+    sons: ['laura', 'diego']
+}
+
+console.log(person, name)
+console.log(person, age)
+console.log(person, sons[0])
+console.log(person, sons[1])
+```
+
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/015%20Objetos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
@@ -548,7 +589,7 @@ let array = [1,2,3,4,5,]
 
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/014%20Bucles%20for%20of) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/016%20Funciones) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
 
 ---
 

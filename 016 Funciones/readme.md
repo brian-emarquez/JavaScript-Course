@@ -1,40 +1,47 @@
-### Obetos - Introduccion
- 
-Son estructuras de datos que representan propiedades, valores y acciones que pueden realizar el objeto
+### Funciones
 
-Todos lo objetos tienen propiedades o atributos y comportammientos o acciones representados por pares de clave(key)(value)
+- Sn fracmentos de codigo que escribimos para ejecutar una tarea y n ovolver a escribir el mismo codigo mas de una ves
 
+- Nos Ayuda a mularizar el codigo
+- Las Funciones deben realizar una sola tarea
 
-== Objetos Ejemplo ==
-
-```js
-const computer = {
-    screensize: 17,
-    model:'Macbook Pro'
-}
-```
-
+### Sintaxis
 
 ```js
-const table = {
-    material: 'madera',
-    width: 160,
-    height: 110
-}
-```
-### Acceso al Objeto
 
-para acceder a las propierdades y acciones del objeto se utiliza la nomanclatura del punto
+function nombreFunciones(){
+    //Codigo
+}
+
+const nombreFuncions = () =>{
+    // Codigo a ejecutar
+}
+
+```
+
+### Parametros
 
 ```js
-const person = {
-    name: 'brian',
-    age:'26',
-    sons: ['laura', 'diego']
+
+function nombreFunciones(parametro1, parametro2){
+    //Codigo
 }
 
-console.log(person, name)
-console.log(person, age)
-console.log(person, sons[0])
-console.log(person, sons[1])
+const nombreFuncions = ((parametro1, parametro2) =>{
+    // Codigo a ejecutar
+}
+
 ```
+
+### Devolver Valores
+
+```js
+
+function nombreFunciones(parametro1, parametro2){
+    return parametro1+parametro2
+}
+
+const nombreFuncions = ((parametro1, parametro2) =>parametro1+parametro2
+
+```
+
