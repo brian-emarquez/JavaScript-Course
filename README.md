@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/JavaScript-Course?style=for-the-badge">
 
   
-![javascripts](./images/js.png)
+![javascripts](./images/javascrip-banner.gif)
 
 ## Instalación
 
@@ -71,8 +71,10 @@
 | 016   |:heavy_check_mark: | [Funciones](#Funciones) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
-
 ---
+
+![javascripts](./images/js.png)
+
 ## Que es JAVASCRIPT
 
 - JavaScript es un lenguaje de Programacion.
