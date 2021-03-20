@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/JavaScript-Course?style=for-the-badge">
 
   
-![javascripts](./images/js1.png)
+![javascripts](./images/js.gif)
 
 ## Instalación
 
@@ -73,7 +73,7 @@
 
 ---
 
-![javascripts](./images/js.png)
+![javascripts](./images/js1.png)
 
 ## Que es JAVASCRIPT
 
