@@ -1,0 +1,1 @@
+class Persona{constructor(a,o,s){this.nombre=a,this.apellido=o,this.edad=s,this.datos=`Me llamo ${this.nombre}  ${this.apellido} y tengo ${this.edad} años`}saludar(){return`Hola, me llamo ${this.nombre} y tengo ${this.edad} años`}}const brian=new Persona("brian","marquez",25);console.log(brian.saludar());

@@ -69,7 +69,7 @@
 | 014   |:heavy_check_mark: | [Bucle for of](#Bucle-for-of) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 015   |:heavy_check_mark: | [Objetos](#Objetos) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | 016   |:heavy_check_mark: | [Funciones](#Funciones) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
+| 017   |:heavy_check_mark: | [POO](#POO) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 ---
 
@@ -593,7 +593,48 @@ console.log(person, sons[1])
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/016%20Funciones) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
 
----
+
+## POO
+
+### Programacion Orientada a Objetos
+
+- Es un aparedigma de la programacion que actualiza las forma de programar anterior
+
+- Algunos de lo conceptos fundamentales son:
+
+    - Clase
+    - Herencia
+    - Objeto
+    - Evento
+
+### Con la llegada de EMA Scrip 6
+
+- Se crea un objeto, a esa accion se le denomina INTANCIAR un objeto
+- Necesitamos una funcion construcctora. se tiene que llamar constructor y se ejecuta cada ves que creemos un obje
+- 
+
+== Ejemplo ==
+
+```js
+class Persona{ // en no,bre de la clae se coloca con mayuscula
+    constructor(nombre, apellido, edad){  // se usa oblidaso constructor
+        this.nombre = nombre // hace referencia al objeto que creamos
+        this.apellido = apellido
+        this.edad = edad
+    }
+```
+### Clases - Metodos
+
+los Objetos peuden tener funciones asociadasa él. En ese caso se les denomina METODOS.
+
+- para crear un objeto la clases o plantilla sehace con la palabra reserbada `new` y el nombre de la clase que queremos utilizar
+
+| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [POO ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/016%20Funciones) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+
+
+
 
 ---
 ## Paypal
