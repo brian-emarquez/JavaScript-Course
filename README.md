@@ -73,7 +73,7 @@
 
 ---
 
-![javascripts](./images/js.png)
+![javascripts](./images/js.gif)
 
 ## Que es JAVASCRIPT
 
