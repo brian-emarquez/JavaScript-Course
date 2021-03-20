@@ -46,13 +46,13 @@
 
 | Numeration   | Check  |Topic          | Quantization   |     link          |
 | ------------ |--------|-------------- |--------------- |------------------ |
-|  -    |:heavy_check_mark: | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Brendan Eich](#Brendan-Eich)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Historia de JavaScript](#Historia-de-JavaScript)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-|  -    |:heavy_check_mark: | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  A    |:heavy_check_mark: | [Que es JAVASCRIPT](#Que-es-JAVASCRIPT)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  B    |:heavy_check_mark: | [Brendan Eich](#Brendan-Eich)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  C    |:heavy_check_mark: | [Historia de JavaScript](#Historia-de-JavaScript)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  D    |:heavy_check_mark: | [Como y donde escribir JavaScripts](#Como-y-donde-escribir-JavaScripts)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  E    |:heavy_check_mark: | [Sintaxis de JavaScritp](#Sintaxis-de-JavaScritp)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  F    |:heavy_check_mark: | [Variables, constantes y sus Ambitos](#Variables-constantes-y-sus-Ambitos)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+|  G    |:heavy_check_mark: | [Declaracion Inializacion y Modificacion](#Declaracion-Inializacion-y-Modificacion)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 001   |:heavy_check_mark: | [Tipos de datos en javaScript](#Tipos-de-datos-en-javaScript)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 002   |:heavy_check_mark: | [Tipos de Operadores](#Tipos-de-Operadores)  |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 003   |:heavy_check_mark: | [Strings](#Strings)   |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
@@ -68,7 +68,7 @@
 | 013   |:heavy_check_mark: | [Bucle for](#Bucle-for) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 014   |:heavy_check_mark: | [Bucle for of](#Bucle-for-of) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 015   |:heavy_check_mark: | [Objetos](#Objetos) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
-| 015   |:heavy_check_mark: | [Funciones](#Funciones) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 016   |:heavy_check_mark: | [Funciones](#Funciones) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 
