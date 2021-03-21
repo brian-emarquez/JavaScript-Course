@@ -631,7 +631,7 @@ los Objetos peuden tener funciones asociadasa él. En ese caso se les denomina M
 
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [POO ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/016%20Funciones) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+| [POO ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/017%20POO%20-%20Clases) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
 
 
 
