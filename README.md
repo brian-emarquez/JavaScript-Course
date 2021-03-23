@@ -35,6 +35,13 @@
   
 ![javascripts](./images/js.gif)
 
+## HackerRank Javascript Certificate
+
+<a href="Skills%20Certification/Certified%20JavaScript.png">
+      <img src="Skills Certification/Badges/javascript_basic_skill.png" alt="Javascript (Basic) Certificate"/>
+</a>
+
+
 ## Instalación
 
 📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code <br>
