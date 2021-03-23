@@ -37,7 +37,7 @@
 
 ## HackerRank Javascript Certificate
 
-<a href="Skills%20Certification/Certified%20JavaScript.png">
+<a href="Skills%20Certification/Certified%20JavaScript%20Basic.png">
       <img src="Skills Certification/Badges/javascript_basic_skill.png" alt="Javascript (Basic) Certificate"/>
 </a>
 
