@@ -1,4 +1,4 @@
-<h2 align="center"> JavaScript-Course - from zero to advanced</h2>
+<h2 align="center"> JavaScript-Course - From Zero to Advanced</h2>
 
 <p align="center">
   
