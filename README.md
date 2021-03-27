@@ -665,7 +665,10 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [Spread operator](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/019%20Spread%20operator) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
-
+![javascripts](./images/dom.jpeg)
 ---
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
+
+---
+<div align="center"><img src="./images/circle.gif"></div>
