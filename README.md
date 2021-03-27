@@ -77,7 +77,7 @@
 | 015   |:heavy_check_mark: | [Objetos](#Objetos) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | 016   |:heavy_check_mark: | [Funciones](#Funciones) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 017   |:heavy_check_mark: | [POO](#POO) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
+| 018   |:heavy_check_mark: | [Metodos de los Arrays](#Metodos-de-los-Arrays) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 ---
 
 ![javascripts](./images/js1.png)
@@ -641,7 +641,21 @@ los Objetos peuden tener funciones asociadasa él. En ese caso se les denomina M
 | [POO ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/017%20POO%20-%20Clases) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
 
 
+## Metodos de los Arrays
 
+`.from` (iterable) - Conierte en array el elemento iterable <br>
+`.sort`(callback) - ordena los elemetos de un array alfabeticamente(valor unicaode)<br>
+`.forEach` - ejecuta la funcion indicada una ves por cada elemento array<br>
+`.some` (callback) - comprueba si al meno un elemento del array cumple la conducion<br>
+`.every`(callback) - comprueba si todos los elementos del array cumplen la condicion<br>
+`.map`(callback) - Transforma todos los elelentso del array y devuelve un nuevo array<br>
+`.map`(callback) - Transforma todos los elelentso del array y devuelve un nuevo array<br>
+`.filter` - trnasoforma todos los elementos del array y devuelven un nuevo array<br>
+`.reduce` - Reduce todos los elelentos del array a un unico valor<br>
+
+| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Metodos de los Arrays ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/018%20Metodo%20de%20lo%20arrays) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ---
 ## Paypal
