@@ -1,4 +1,4 @@
-<h2 align="center"> JavaScript-Course</h2>
+<h2 align="center"> JavaScript-Course - From Zero to Advanced</h2>
 
 <p align="center">
   
@@ -41,6 +41,13 @@
 📦 [Install Node.js](https://nodejs.org/es/download/) Instalador de Node.<br>
 📦 [Install IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/#section=windows) Intalador IntelliJ IDEA.<br>
 📦 [Install Prepros](https://prepros.io/) Intalador de Prepros.<br>
+
+## HackerRank Javascript Certificate
+
+<a href="Skills%20Certification/Certified%20JavaScript%20Basic.png">
+      <img src="Skills Certification/Badges/javascript_basic_skill.png" alt="Javascript (Basic) Certificate"/>
+</a>
+
 
 ## Tabla de contenidos
 
