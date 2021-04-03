@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/JavaScript-Course?style=for-the-badge">
 
   
-![javascripts](./images/js.gif)
+![javascript](./images/js.gif)
 
 ## Instalación
 
@@ -96,7 +96,7 @@
 
 ## Brendan Eich
 
-![javascripts](./images/Brendan_Eich.jpg)
+![javascript](./images/Brendan_Eich.jpg)
 
 es un programador estadounidense conocido por inventar el lenguaje de programación JavaScript.
 
@@ -487,7 +487,7 @@ let array =[]
 let array = [1,2,3,4,5,]
 ```
 
-![javascripts](./images/array.png)
+![javascript](./images/array.png)
 
 | Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
@@ -677,9 +677,12 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [Spread operator](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/019%20Spread%20operator) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
-![javascripts](./images/dom.jpeg)
+![javascript](./images/dom.jpeg)
 
 ## DOM
+
+
+![javascript](./images/Dom1.jpeg)Dom1.png
 
 Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  

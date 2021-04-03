@@ -12,10 +12,8 @@ No es JavaScript, es una API (Aplication Programing Interface)
 </head>
 <body>
 
-    <hi id="title" class="title"> DOM Documents Object Model</h1>
+    <h1 id="title" class="title"> DOM Documents Object Model</h1>
     
-    ellipse(215, 197, 277, 309)
-
 </body>
 </html>
 ```
@@ -48,5 +46,5 @@ Cada parte del arbol del documento es un NODO
 Hay varios tipos de nodos, los mas utilizados son:
 
     * Element node - 1 (cualuier etiqueta HTML)
-    * Text node -3 (El Contenido de la etiqueta)
+    * Text node - 3 (El Contenido de la etiqueta)
     * Comment node - 8 (Culquier comentario en HTML)
