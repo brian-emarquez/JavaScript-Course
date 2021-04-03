@@ -19,6 +19,6 @@ No es JavaScript, es una API (Aplication Programing Interface)
 </body>
 </html>
 ```
-```cmd
+```powershell
 ellipse(215, 197, 277, 309)
 ```
