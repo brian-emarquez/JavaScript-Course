@@ -80,6 +80,7 @@
 | 018   |:heavy_check_mark: | [Metodos de los Arrays](#Metodos-de-los-Arrays) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | 019   |:heavy_check_mark: | [Metodos de los Arrays](#Spread-operator) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 020   |:heavy_check_mark: | [DOM](#DOM) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 021   |:heavy_check_mark: | [Seleccion de Elementos](#Seleccion-de-Elementos) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 ---
@@ -737,6 +738,12 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [DOM](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM/readme.md) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
+
+## Seleccion de Elementos
+
+Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM/readme.md) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ---
 ## Paypal
