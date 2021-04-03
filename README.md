@@ -661,6 +661,16 @@ los Objetos peuden tener funciones asociadasa él. En ese caso se les denomina M
 
 ## Spread operator
 
+```js
+const numbers = [-12, 2, 3, 23, 43, 2, 3]
+console.log(...numbers); // se observa numero separados
+
+
+const addNumbers = (a,b,c,) =>{
+    console.log(a+b+c)
+}
+```
+
 Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [Spread operator](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/019%20Spread%20operator) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
