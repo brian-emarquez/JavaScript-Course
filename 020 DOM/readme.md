@@ -19,6 +19,22 @@ No es JavaScript, es una API (Aplication Programing Interface)
 </body>
 </html>
 ```
+
 ```powershell
-ellipse(215, 197, 277, 309)
++---Comerciales
+    +---Datos 2
+    \---Datos 3
+        \---Datos 3
+            +---Datos 1
+            |   +---Datos 2
+            |   \---Datos 3
+            |       \---Datos 3
+            +---Datos 2
+            |   +---Datos 2
+            |   \---Datos 3
+            |       \---Datos 3
+            +---Datos 2
+            |   +---Datos 2
+            |   \---Datos 3
+            |       \---Datos 3
 ```
