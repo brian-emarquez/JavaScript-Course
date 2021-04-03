@@ -681,8 +681,7 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
 
 ## DOM
 
-
-![javascript](./images/Dom1.jpeg)Dom1.png
+![javascript](./images/Dom1.png)
 
 Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
