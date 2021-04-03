@@ -21,20 +21,18 @@ No es JavaScript, es una API (Aplication Programing Interface)
 ```
 
 ```powershell
-+---Comerciales
-    +---Datos 2
-    \---Datos 3
-        \---Datos 3
-            +---Datos 1
-            |   +---Datos 2
-            |   \---Datos 3
-            |       \---Datos 3
-            +---Datos 2
-            |   +---Datos 2
-            |   \---Datos 3
-            |       \---Datos 3
-            +---Datos 2
-            |   +---Datos 2
-            |   \---Datos 3
-            |       \---Datos 3
++---Document
+    +---LANG
+    \---HTML
+        +---HEAD
+        |   +---META
+                \---CHARSET
+        |   \---TITLE
+                \---DOM
+        +--- BODY
+        |   +---BODY
+        |   \---H1
+        |       +---ID
+        |       +---CLASS
+        |       \---TEXT
 ```
