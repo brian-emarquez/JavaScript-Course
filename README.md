@@ -680,6 +680,7 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
 
 ![javascript](./images/dom.jpeg)
 
+---
 ## DOM
 
 Es toda la estructura HTML del documento.
