@@ -736,14 +736,14 @@ Hay varios tipos de nodos, los mas utilizados son:
 
 Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [DOM](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM/readme.md) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+| [DOM](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 
 ## Seleccion de Elementos
 
 Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM/readme.md) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+| [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ---
 ## Paypal
