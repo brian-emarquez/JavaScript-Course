@@ -79,6 +79,8 @@
 | 017   |:heavy_check_mark: | [POO](#POO) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 018   |:heavy_check_mark: | [Metodos de los Arrays](#Metodos-de-los-Arrays) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 | 019   |:heavy_check_mark: | [Metodos de los Arrays](#Spread-operator) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 020   |:heavy_check_mark: | [DOM](#DOM) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+
 
 ---
 
@@ -674,8 +676,15 @@ const addNumbers = (a,b,c,) =>{
 Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [Spread operator](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/019%20Spread%20operator) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
----
+
 ![javascripts](./images/dom.jpeg)
+
+## DOM
+
+Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
+|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [Spread operator](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/019%20Spread%20operator) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+
 
 ---
 ## Paypal
