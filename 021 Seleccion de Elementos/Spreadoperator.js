@@ -9,5 +9,9 @@ Document.querySelectorAll(''selectorCSS) - accede a todos lo elementos que coinc
 
 */
 
+const title = document.getElementById('title')
+title.textContent = 'Dom - Accediendo a nodos'
+
+
 
 
