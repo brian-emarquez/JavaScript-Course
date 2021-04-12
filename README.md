@@ -768,6 +768,15 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
       <td><a href="https://web-engineering.info/tech/JsFrontendApp/book/">Building Front-End Web Apps with Plain JavaScript Online </a></td>
       <td>i4wn</td>
   </tr>
+  
+   <tr>
+      <td>The javaScript Languaje</td>
+      <td>Ilya Kantor</td>
+      <td> - </td>
+      <td>- </td>
+      <td><a href="https://dubox.com/s/1MaEkY8JrRNLxb5HkMt2EoA">The javaScript Languaje </a><a href="https://es.javascript.info/">The javaScript Languaje Manual</a>. </td>
+      <td>3un7</td>
+  </tr>
 
 </table>
 
