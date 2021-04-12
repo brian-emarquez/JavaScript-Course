@@ -747,8 +747,49 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
 | [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ---
+
+## Book
+
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Authors</td>
+      <td>Edition</td>
+      <td>ISBN</td>
+      <td>Link</td>
+      <td>Password</td>
+  </tr>
+
+  <tr>
+      <td>Building Front-End Web Apps with Plain JavaScript</td>
+      <td>Gerd Wagner</td>
+      <td> - </td>
+      <td>- </td>
+      <td><a href="https://web-engineering.info/tech/JsFrontendApp/book/">Building Front-End Web Apps with Plain JavaScript Online </a></td>
+      <td>i4wn</td>
+  </tr>
+
+</table>
+
 ## Paypal
 🩸 Hacer una donación [PAYPAL](https://www.paypal.com/donate?hosted_button_id=98U3T62494H9Y) 🍵
 
 ---
-<div align="center"><img src="./images/circle.gif"></div>
+
+ <table align="center">
+    <tr>
+      <td colspan="3">A</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>C</td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/circle.gif" /></td>
+        <td>E</td>
+      </tr>
+      <tr>
+      <td colspan="3">F</td>
+        <td>G</td>
+    </tr>
+</table>
+
+
