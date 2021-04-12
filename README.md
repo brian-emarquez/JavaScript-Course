@@ -763,10 +763,10 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
   <tr>
       <td>Building Front-End Web Apps with Plain JavaScript</td>
       <td>Gerd Wagner</td>
-      <td> - </td>
-      <td>- </td>
+      <td></td>
+      <td> </td>
       <td><a href="https://web-engineering.info/tech/JsFrontendApp/book/">Building Front-End Web Apps with Plain JavaScript Online </a></td>
-      <td>i4wn</td>
+      <td></td>
   </tr>
   
    <tr>
