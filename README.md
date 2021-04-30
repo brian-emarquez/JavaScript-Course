@@ -81,6 +81,8 @@
 | 019   |:heavy_check_mark: | [Metodos de los Arrays](#Spread-operator) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 020   |:heavy_check_mark: | [DOM](#DOM) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 021   |:heavy_check_mark: | [Seleccion de Elementos](#Seleccion-de-Elementos) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 022   |:heavy_check_mark: | [Atributos y Clases](#Atributos-y-Clases) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 023   |:heavy_check_mark: | [Eventos raton teclado](#Eventos-raton-teclado) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 
 
 ---
@@ -745,6 +747,18 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
 Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
 |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 | [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+
+## Atributos y Clases
+
+| Number  |File             | Link |   ome     |  Code       | Version     | Estado      |
+|:.......:|:--------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|022 | [Atributos y Clases](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/022%20Atributos%20y%20Clases) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+
+## Eventos raton teclado
+
+| Number  |File                    | Link |   ome     |  Code       | Version     | Estado      |
+|:.......:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|022 || [Eventos raton teclado](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ---
 
