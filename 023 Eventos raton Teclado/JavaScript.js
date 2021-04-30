@@ -1,26 +1,35 @@
-// Atributos y clases
+ /*Eventos de raton
+     dbclick
+     mouseenter
+     mouseleave
+     mausedown
+     mauseup
+     mousemove
+  */
 
-const title = document.getElementById('title')
-const name = document.getElementById('name')
+ /*Eventos teclado
+     keydown
+     keyup
+     keypress
+ * */
 
-/******* ATRIBUTOS *************/
-// console.log(name.getAttribute('id'));
-// name.setAttribute('type', 'date')
-// console.log(name)
+// const button = document.getElementById('button')
+// button.addEventListener('click', ()=>{
+//     console.log('CLICK');
+// })
 
-/********CLASES **************/
-// title.classList.add('main-title', 'other-title')
+ // const button = document.getElementById('button')
+ // button.addEventListener('dblclick',()=>{
+ //     console.log('dblclick')
+ // })
 
-// title.classList.remove('title')
+const button = document.getElementById('button')
+const box = document.getElementById('box')
+box.addEventListener('mouseenter', ()=>{
+    box.classList.replace('red', 'green')
+})
+ box.addEventListener('mouseleave', ()=>{
+     box.classList.replace('green', 'red')
 
-// if(title.classList.contains('title')) console.log('Title tiene la clases title');
-// else console.log('Title no tiene la clases title');
-
-// title.classList.replace('title', 'brian')
-
-console.log(title)
-console.log(name)
-
-
-
+ })
 
