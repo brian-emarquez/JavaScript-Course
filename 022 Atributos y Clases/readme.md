@@ -13,7 +13,13 @@ _CLASES_
 ```js
 elementos.classList.add('class', 'class',...)
 elementos.classList.remove('class', 'class',...)
-elementos.classList.toggle('class', [,force],...)
+elementos.classList.toggle('class', [,force])
 elementos.classList.contains('class')
 elementos.classList.replace('oldClass', 'newClass')
 ```
+
+_Atributos directos_
+
+id
+value
+
