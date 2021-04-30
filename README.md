@@ -737,16 +737,16 @@ Hay varios tipos de nodos, los mas utilizados son:
 
 ![javascript](./images/Dom1.png)
 
-Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [DOM](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+| Number  |File                  | Link |   ome     |  Code       | Version     | Estado      |
+|:.......:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|021      | [DOM](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 
 ## Seleccion de Elementos
 
-Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+| Number  | File         | Link        |   ome       |  Code       | Version     | Estado      |
+|:.......:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|021 | [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ## Atributos y Clases
 
@@ -758,7 +758,7 @@ Carpeta                    | Link |   ome     |  Code       | Version     | Esta
 
 | Number  |File                    | Link |   ome     |  Code       | Version     | Estado      |
 |:.......:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-|022 || [Eventos raton teclado](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+|022 || [Eventos raton teclado](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/023%20Eventos%20raton%20Teclado) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ---
 
