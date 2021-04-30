@@ -1,18 +1,14 @@
-// document.getElementById('id') - Acceder a un elemento a traves de su id
-// const title = document.getElementById('title');
-// /*Console.log(title);*/
-// //permite leer o editar
-// title.textContent = 'Dom Pueba de test'
+// Atributos y clases
 
-// documents|element.querySelector('selectorCSS)- ACCEDE AL PRIMER ELELENTO QUE COINCIDA CONgit  EL SELECTOR css
-// const paragraph = document.querySelector('.paragraph:nth-child(2)')
+const title = document.getElementById('title')
+const name = document.getElementById('name')
 
-// const paragraph = document.querySelector('.paragraph');
-// const span = paragraph.querySelector("span");
-// console.log(span);
+console.log(title)
+console.log(name)
 
-// Document.querySelectorAll('selectorCSS`) - accede a todos lo elementos que coinciden con el selector css , devuelve un nodelist
-const paragraphs = document.querySelectorAll('.paragraph');
-paragraphs[0].style.color = 'red'
-console.log(paragraphs);
+/******* ATRIBUTOS *************/
+// console.log(name.getAttribute('id'));
+name.setAttribute('type', 'date')
+console.log(name)
 
+/********CLASES **************/
