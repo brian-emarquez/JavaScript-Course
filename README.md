@@ -758,7 +758,7 @@ Hay varios tipos de nodos, los mas utilizados son:
 
 | Number  |File                    | Link |   ome     |  Code       | Version     | Estado      |
 |:-------:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-|022 || [Eventos raton teclado](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/023%20Eventos%20raton%20Teclado) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+|023 || [Eventos raton teclado](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/023%20Eventos%20raton%20Teclado) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ---
 
