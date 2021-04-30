@@ -751,13 +751,13 @@ Hay varios tipos de nodos, los mas utilizados son:
 ## Atributos y Clases
 
 | Number  |File             | Link |   ome     |  Code       | Version     | Estado      |
-|:.......:|:--------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|:-------:|:--------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 |022 | [Atributos y Clases](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/022%20Atributos%20y%20Clases) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ## Eventos raton teclado
 
 | Number  |File                    | Link |   ome     |  Code       | Version     | Estado      |
-|:.......:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|:-------:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 |022 || [Eventos raton teclado](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/023%20Eventos%20raton%20Teclado) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
 ---
