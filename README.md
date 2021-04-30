@@ -737,14 +737,14 @@ Hay varios tipos de nodos, los mas utilizados son:
 
 ![javascript](./images/Dom1.png)
 
-| Number  |File                  | Link |   ome     |  Code       | Version     | Estado      |
-|:.......:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-|021      | [DOM](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+| Number  |File            | Link        |   Code       |  Code       | Version     | Estado      |
+|:.......:|:--------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|021      | [DOM](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |yes |
 
 
 ## Seleccion de Elementos
 
-| Number  | File         | Link        |   ome       |  Code       | Version     | Estado      |
+| Number  | File         | Link        |   Code       |  Code       | Version     | Estado      |
 |:.......:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 |021 | [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
 
