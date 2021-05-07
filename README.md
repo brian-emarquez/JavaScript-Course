@@ -32,9 +32,14 @@
   <img src="https://img.shields.io/github/last-commit/BrianMarquez3/JavaScript-Course?color=yellow&style=for-the-badge">
   <img src="https://img.shields.io/github/languages/count/BrianMarquez3/JavaScript-Course?style=for-the-badge">
 
-  
-![javascript](./images/js.gif)
-
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/js.gif" />
+    </td>
+  </tr>
+</table>
+   
 ## Instalación
 
 📦 [Install Visual studio Code](https://code.visualstudio.com/) Intalador de Visual Studio Code <br>
