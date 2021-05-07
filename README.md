@@ -656,8 +656,8 @@ _Los Objetos peuden tener funciones asociadasa él. En ese caso se les denomina 
 - para crear un objeto la clases o plantilla sehace con la palabra reserbada `new` y el nombre de la clase que queremos utilizar
 
 |Number| File         | Link        |    Code     | Version     | Estado      | Atras       |
-|017   |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [POO ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/017%20POO%20-%20Clases) |    :heavy_check_mark:      | yes | yes | yes |⬅️ [Atras](#Tabla-de-contenidos)| 
+|------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|017   | [POO ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/017%20POO%20-%20Clases) |    :heavy_check_mark:      | yes | yes | yes |⬅️ [Atras](#Tabla-de-contenidos)| 
 
 
 ## Metodos de los Arrays
