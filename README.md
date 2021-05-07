@@ -220,12 +220,12 @@ Tecnologias Independiente:
 
 |Number | Carpeta      | Link        |    Code     | Version     | Estado      | Atras       |
 |-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-|000    |[Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
+|000    |[Hello Worls](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Hello%20World) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
 
 
 |Number | Carpeta      | Link        |    Code     | Version     | Estado      | Atras       |
 |-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-|001    |[Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
+|001    |[Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/001%20Variables) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
 
 ---
 
