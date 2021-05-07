@@ -218,9 +218,14 @@ Tecnologias Independiente:
   - <strong> Null</strong>
   - <strong> Symbol </strong>
 
-| Carpeta      | Link         |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables)          |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+|Number | Carpeta      | Link        |    Code     | Version     | Estado      | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+|000    |[Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
+
+
+|Number | Carpeta      | Link        |    Code     | Version     | Estado      | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+|001    |[Variables](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/000%20Variables) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
 
 ---
 
@@ -315,9 +320,10 @@ Operadores aritméticos
      
 </table>
 
-| Carpeta                    | Link |     Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/002%20Tipo_de_Operadores)          |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+
+|Number | Carpeta      | Link        |    Code     | Version     | Estado      | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+|002    |[Tipo de Operadores](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/002%20Tipo_de_Operadores) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
 
 ---
 ## Strings
@@ -336,15 +342,17 @@ se emplean usando la nomeclatura del punto: <br>
 [W3School JavaScripts](https://www.w3schools.com/js/js_strings.asp)
     
 
-| Carpeta                    | Link |     
-|----------------------------|:-----------:|
-| [Strings](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/003%20Strings)   |      ✔️     | 
+
+|Number | Carpeta      | Link        |    Code     | Version     | Estado      | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+|003    | [Strings](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/003%20Strings) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
+
+
 
 ---
 
 ## Objetos Math
 
-### Objeto Math
 
 * E sun objeto que se utiliza para operaciones matematicas mas especificas
 * Al ser un objeto tamien utliza la nomenclatura del punto
@@ -365,15 +373,15 @@ Metodos: <br>
 ```
     
 
-| Carpeta                    | Link |  Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
-| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/004%20Objeto_Math) |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
----
+|Number | Carpeta      | Link        |    Code     | Version     | Estado      | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:| 
+|004    | [Objetos Math](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/004%20Objeto_Math) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
 
+---
 ## Condicionales
 
-### Condicionales
-Estructuras de control de flujo:
+
+_Estructuras de control de flujo:_
 
     - Condicionales
         Simples
@@ -404,17 +412,17 @@ Estructuras de control de flujo:
     }
     ```
     
-| Carpeta                    | Link | Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/005%20Condicionales) |   |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+|Number | File         | Link        |  Code       | Version     | Estado      | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|005    | [Condicionales](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/005%20Condicionales) |   |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos)|
     
 ---
 
 ## Operadores Logicos
 
-| Carpeta                    | Link |  Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [operadores Logico](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/006%20operadores_Logicos) |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+|Number  | File         | Link        |  Code       | Version     | Estado      | Atras       |
+|--------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|006     | [operadores Logico](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/006%20operadores_Logicos) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos)|
 
 
 ---
@@ -441,16 +449,16 @@ switch (expresión) {
 }
 ```
 
-| Carpeta                    | Link |    Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Condicional Swich](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/007%20Condicional%20Swich) |     heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+|Number |   File       | Link        |  Code       | Version     | Estado      | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|007    | [Condicional Swich](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/007%20Condicional%20Swich) |     heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos) |
 
 ---
 ## Ordenar 3 numero de mayor a menor
 
-| Carpeta                    | Link |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Ordenar 3 numero de mayor a menor](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/008%20ordenar%203%20numero%20de%20mayor%20a%20menor) |     :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  | 
+|Number  | File         | Link        |     Code    | Version     | Estado      | Atras       |
+|--------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|008     | [Ordenar 3 numero de mayor a menor](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/008%20ordenar%203%20numero%20de%20mayor%20a%20menor) |     :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  | ⬅️ [Atras](#Tabla-de-contenidos) |
 
 ---
 
@@ -639,7 +647,7 @@ console.log(person, sons[1])
 - Necesitamos una funcion construcctora. se tiene que llamar constructor y se ejecuta cada ves que creemos un obje
 - 
 
-== Ejemplo ==
+**Ejemplo**
 
 ```js
 class Persona{ // en no,bre de la clae se coloca con mayuscula
