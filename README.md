@@ -681,11 +681,17 @@ const addNumbers = (a,b,c,) =>{
 }
 ```
 
-Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Spread operator](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/019%20Spread%20operator) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+|Number| File         | Link        |   Code       | Version     | Estado     | Atras       |      
+|------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|019   | [Spread operator](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/019%20Spread%20operator) |    :heavy_check_mark:      | yes | yes | yes | ⬅️ [Atras](#Tabla-de-contenidos) |
 
-![javascript](./images/dom.jpeg)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/dom.jpeg" />
+    </td>
+  </tr>
+</table>
 
 ---
 ## DOM
@@ -740,18 +746,23 @@ Hay varios tipos de nodos, los mas utilizados son:
     * Comment node - 8 (Culquier comentario en HTML)
 
 
-![javascript](./images/Dom1.png)
-
-| Number  |File            | Link        |   Code       |  Code       | Version     | Estado      |
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/Dom1.png" />
+    </td>
+  </tr>
+</table>
+   
+| Number  |File            | Link        |     Code    | Version     | Estado      | Atras       |
 |:-------:|:--------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-|021      | [DOM](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |yes |
-
+|020     | [DOM](https://github.com/BrianMarquez3/JavaScript-Course/blob/main/020%20DOM) |    :heavy_check_mark:      | yes | yes | yes |yes |⬅️ [Atras](#Tabla-de-contenidos)|
 
 ## Seleccion de Elementos
 
-| Number  | File         | Link        |   Code       |  Code       | Version     | Estado      |
+| Number  | File         | Link        |  Code       | Version     | Estado      | Atras       |
 |:-------:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-|021 | [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+|021 | [Seleccion de Elementos](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/021%20Seleccion%20de%20Elementos) |    :heavy_check_mark:      | yes | yes | yes | ⬅️ [Atras](#Tabla-de-contenidos) |
 
 ## Atributos y Clases
 
