@@ -755,9 +755,9 @@ Hay varios tipos de nodos, los mas utilizados son:
 
 ## Atributos y Clases
 
-| Number  |File             | Link |   ome     |  Code       | Version     | Estado      |
+| Number  |File            | Link         |    Code       | Version  | Estado      | Atraz       |
 |:-------:|:--------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-|022 | [Atributos y Clases](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/022%20Atributos%20y%20Clases) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+|022 | [Atributos y Clases](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/022%20Atributos%20y%20Clases) |    :heavy_check_mark:      | yes | yes |yes| ⬅️ [Atras](#Tabla-de-contenidos) |
 
 ## Eventos raton teclado
 
