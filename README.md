@@ -665,9 +665,9 @@ los Objetos peuden tener funciones asociadasa él. En ese caso se les denomina M
 `.filter` - trnasoforma todos los elementos del array y devuelven un nuevo array<br>
 `.reduce` - Reduce todos los elelentos del array a un unico valor<br>
 
-| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Metodos de los Arrays ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/018%20Metodo%20de%20lo%20arrays) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |
+|Number| File         | Link        |    Code     | Version     | Estado      | Atras       |
+|------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|018   | [Metodos de los Arrays ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/018%20Metodo%20de%20lo%20arrays) |    :heavy_check_mark:      | yes | yes | yes |⬅️ [Atras](#Tabla-de-contenidos)|
 
 ## Spread operator
 
