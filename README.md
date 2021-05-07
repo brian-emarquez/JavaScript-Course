@@ -474,9 +474,10 @@ switch (expresión) {
     segunda_sentencia)
 ```
 
-| Carpeta                    | Link |   Home     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Operador Ternario](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/009%20operador%20ternario) |      :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+|Number | Carpeta       | Link        |  Code       | Version     | Estado      |Atras        |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|009    | [Operador Ternario](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/009%20operador%20ternario) |      :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  |⬅️ [Atras](#Tabla-de-contenidos)  |
+
 ---
 
 ## Array 
@@ -495,19 +496,26 @@ let array =[]
 let array = [1,2,3,4,5,]
 ```
 
-![javascript](./images/array.png)
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/array.png" />
+    </td>
+  </tr>
+</table>
+   
 
-| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Array](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/010%20Array) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes |  :heavy_check_mark:  |
+|Number | File         | Link        |  Code       | Version     | Estado      | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|010    | [Array](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/010%20Array) |    :heavy_check_mark:      | yes | yes | yes |  :heavy_check_mark:  | ⬅️ [Atras](#Tabla-de-contenidos)|
 
 ---
 
 ## Arrays II
 
-| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [ArrayII](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/011%20Array%20II) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+|Number | Carpeta      | Link        |     Code    | Version     | Estado      | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|011    | [ArrayII](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/011%20Array%20II) |    :heavy_check_mark:      | yes | yes | yes | ⬅️ [Atras](#Tabla-de-contenidos) |
 
 ## Bucles 
 
@@ -537,25 +545,24 @@ let array = [1,2,3,4,5,]
     
     ```
 
-
-| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Bucles ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+|Bucles | File      | Link        |  Code       | Version     | Estado      | Atras       |
+|:-----:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|012    | [Bucles ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/012%20Bucles) |    :heavy_check_mark:      | yes | yes | yes |⬅️ [Atras](#Tabla-de-contenidos) | 
 
 ---
 
 ## Bucle for
 
-| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Bucle for](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/013%20Bucle%20for) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+|Number| Carpeta      | Link        |  Code       | Version     | Estado      | Atras       |
+|:----:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|013   | [Bucle for](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/013%20Bucle%20for) |    :heavy_check_mark:      | yes | yes | yes | ⬅️ [Atras](#Tabla-de-contenidos) |
 
 ---
 ## Bucle for of
 
-| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/014%20Bucles%20for%20of) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+|Number| File        | Link        |    Code     | Version     | Estado      | Atras  |
+|------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:------:|  
+|014| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/014%20Bucles%20for%20of) |    :heavy_check_mark:      | yes | yes | yes | ⬅️ [Atras](#Tabla-de-contenidos) |
 
 ## Objetos
 
@@ -600,17 +607,17 @@ console.log(person, sons[0])
 console.log(person, sons[1])
 ```
 
-| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/015%20Objetos) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+|Number | Carpeta      | Link        |     Code       | Version     | Estado   | Atras       |
+|-------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|015    | [Objetos ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/015%20Objetos) |    :heavy_check_mark:      | yes | yes | yes | ⬅️ [Atras](#Tabla-de-contenidos) |
 
 ---
 
 ## Funciones
 
-| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [Bucle for of ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/016%20Funciones) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+|Number| File         | Link        |     Code       | Version  | Estado     | Atras        |
+|------|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|016   | [Funciones](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/016%20Funciones) |    :heavy_check_mark:      | yes | yes | yes | ⬅️ [Atras](#Tabla-de-contenidos) |
 
 
 ## POO
@@ -644,13 +651,13 @@ class Persona{ // en no,bre de la clae se coloca con mayuscula
 ```
 ### Clases - Metodos
 
-los Objetos peuden tener funciones asociadasa él. En ese caso se les denomina METODOS.
+_Los Objetos peuden tener funciones asociadasa él. En ese caso se les denomina METODOS._
 
 - para crear un objeto la clases o plantilla sehace con la palabra reserbada `new` y el nombre de la clase que queremos utilizar
 
-| Carpeta                    | Link |   ome     |  Code       | Version     | Estado      |
-|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
-| [POO ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/017%20POO%20-%20Clases) |    :heavy_check_mark:      | ⬅️ [Atras](#Tabla-de-contenidos) | yes | yes | 
+|Number| File         | Link        |    Code     | Version     | Estado      | Atras       |
+|017   |--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+| [POO ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/017%20POO%20-%20Clases) |    :heavy_check_mark:      | yes | yes | yes |⬅️ [Atras](#Tabla-de-contenidos)| 
 
 
 ## Metodos de los Arrays
