@@ -1173,7 +1173,7 @@ Hay varios tipos de nodos, los mas utilizados son:
       </tr>
       <tr>
         <td>C</td>
-      <td colspan="2"><img align="center" style="padding=0;" src="./images/circle.gif" /></td>
+      <td colspan="2"><img align="center" style="padding=0;" src="./images/fractal.gif" /></td>
         <td>E</td>
       </tr>
       <tr>
