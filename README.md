@@ -88,7 +88,8 @@
 | 021   |:heavy_check_mark: | [Seleccion de Elementos](#Seleccion-de-Elementos) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 022   |:heavy_check_mark: | [Atributos y Clases](#Atributos-y-Clases) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
 | 023   |:heavy_check_mark: | [Eventos raton teclado](#Eventos-raton-teclado) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
-
+| 024   |:heavy_check_mark: | [Objeto Evento](#Objeto-Evento) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) | 
+| 025   |:heavy_check_mark: | [Objeto Evento 2](#Objeto-Evento-2) |  :hourglass:    | [ ⬅️ Atras](https://github.com/BrianMarquez3) |
 
 ---
 
@@ -1126,6 +1127,22 @@ Hay varios tipos de nodos, los mas utilizados son:
 | Number  |File          | Link        |  Code       | Version     | Estado      | Atras       |
 |:-------:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 |023      | [Eventos raton teclado](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/023%20Eventos%20raton%20Teclado) |:heavy_check_mark:|  yes | yes |yes|⬅️ [Atras](#Tabla-de-contenidos) |
+
+## Objeto Evento
+
+| Number  |File          | Link        |  Code       | Version     | Estado      | Atras       |
+|:-------:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|024      | [Objeto Evento](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/024%20Objeto%20Evento) |:heavy_check_mark:|  yes | yes |yes|⬅️ [Atras](#Tabla-de-contenidos) |
+
+## Objeto Evento 2
+
+| Number  |File          | Link        |  Code       | Version     | Estado      | Atras       |
+|:-------:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
+|025      | [Objeto Evento 2 ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/025%20Objeto%20Evento%202) |:heavy_check_mark:|  yes | yes |yes|⬅️ [Atras](#Tabla-de-contenidos) |
+
+
+
+
 
 ---
 

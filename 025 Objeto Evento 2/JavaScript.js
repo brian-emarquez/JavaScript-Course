@@ -10,7 +10,7 @@ gallery.addEventListener('click', (e) => {
 
 const gallery = document.getElementById('gallery') 
 gallery.addEventListener('click', (e) => {
-    e.target.classList.add('red');
+    e.target.classList.add('blue');
 })
 
 
