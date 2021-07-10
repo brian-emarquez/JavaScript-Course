@@ -1136,6 +1136,14 @@ Hay varios tipos de nodos, los mas utilizados son:
 
 ## Objeto Evento 2
 
+<table align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="./images/objeto.png" />
+    </td>
+  </tr>
+</table>
+
 | Number  |File          | Link        |  Code       | Version     | Estado      | Atras       |
 |:-------:|--------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|  
 |025      | [Objeto Evento 2 ](https://github.com/BrianMarquez3/JavaScript-Course/tree/main/025%20Objeto%20Evento%202) |:heavy_check_mark:|  yes | yes |yes|⬅️ [Atras](#Tabla-de-contenidos) |
