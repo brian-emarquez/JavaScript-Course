@@ -1158,30 +1158,30 @@ Hay varios tipos de nodos, los mas utilizados son:
 
 <table>
   <tr>
+      <td>Server</td>
       <td>Name</td>
       <td>Authors</td>
       <td>Edition</td>
       <td>ISBN</td>
       <td>Link</td>
-      <td>Password</td>
   </tr>
 
   <tr>
+      <td> - </td>
       <td>Building Front-End Web Apps with Plain JavaScript</td>
       <td>Gerd Wagner</td>
       <td></td>
       <td> </td>
       <td><a href="https://web-engineering.info/tech/JsFrontendApp/book/">Building Front-End Web Apps with Plain JavaScript Online </a></td>
-      <td></td>
   </tr>
   
    <tr>
+      <td>OneDrive</td>
       <td>The javaScript Languaje</td>
       <td>Ilya Kantor</td>
       <td> - </td>
       <td>- </td>
-      <td><a href="https://dubox.com/s/1MaEkY8JrRNLxb5HkMt2EoA">The javaScript Languaje </a><a href="https://es.javascript.info/">The javaScript Languaje Manual</a>. </td>
-      <td>3un7</td>
+      <td><a href="https://ucsmedu-my.sharepoint.com/:b:/g/personal/47092136_ucsm_edu_pe/EVdwB-kgkDxFhpG20OzL0PkBihlXAmuuDBW-RIsW11vriA?e=F9ull8">The javaScript Languaje </a><a href="https://es.javascript.info/">The javaScript Languaje Manual</a>. </td>
   </tr>
 
 </table>
